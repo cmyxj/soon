@@ -1,0 +1,11 @@
+{
+  "igdb": {
+    "client_id": "",
+    "client_secret": ""
+  },
+  "days_ahead": 90,
+  "limit": 120,
+  "top_n": 20,
+  "min_hypes": 5,
+  "big_hypes": 120
+}
