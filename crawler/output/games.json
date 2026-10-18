@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:58:15.039332",
+  "generated_at": "2026-10-18T05:04:11.638193",
   "threshold": 50,
   "big_count": 4,
   "normal_count": 55,
@@ -80,9 +80,9 @@
       "title_en": "Call of Duty: Modern Warfare 4",
       "cat": "new",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Shooter"
@@ -106,9 +106,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Adventure"
@@ -132,9 +132,9 @@
       "title_en": "Final Fantasy Resonance",
       "cat": "new",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -159,8 +159,8 @@
       "title_en": "The Wolf Among Us Remastered",
       "cat": "remaster",
       "plats": [
-        "sw",
         "ps",
+        "sw",
         "pc"
       ],
       "tags": [
@@ -233,9 +233,9 @@
       "title_en": "Remothered: Red Nun's Legacy",
       "cat": "new",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Puzzle",
@@ -285,9 +285,9 @@
       "title_en": "Queen's Domain",
       "cat": "new",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -335,9 +335,9 @@
       "title_en": "Warhammer Survivors",
       "cat": "new",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -869,8 +869,8 @@
       "title_en": "One Piece: Grand Gourmet",
       "cat": "new",
       "plats": [
-        "sw",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Simulator"
@@ -917,9 +917,9 @@
       "title_en": "Godzilla: Destroy All Monsters Melee Remastered",
       "cat": "remaster",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Fighting"
@@ -943,9 +943,9 @@
       "title_en": "Sonic Pico Park",
       "cat": "new",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Puzzle"
@@ -969,8 +969,8 @@
       "title_en": "Chivalware",
       "cat": "new",
       "plats": [
-        "sw",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Adventure",
@@ -1089,9 +1089,9 @@
       "title_en": "Croc 2: Kingdom of the Gobbos",
       "cat": "new",
       "plats": [
+        "ps",
         "sw",
-        "pc",
-        "ps"
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -1139,9 +1139,9 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Shooter",
@@ -1235,9 +1235,9 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Adventure",
@@ -1400,9 +1400,9 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Role-playing (RPG)",
