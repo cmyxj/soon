@@ -1,0 +1,29 @@
+[
+  {
+    "title": "横版冒险精选集",
+    "platform": "Epic",
+    "st": "avail",
+    "start": "2026-10-10T00:00:00+08:00",
+    "end": "2026-10-19T23:59:00+08:00",
+    "url": "https://store.epicgames.com",
+    "note": "永久保留 · 限时7天"
+  },
+  {
+    "title": "复古飞行模拟",
+    "platform": "Steam",
+    "st": "avail",
+    "start": "2026-10-14T00:00:00+08:00",
+    "end": "2026-10-18T23:59:00+08:00",
+    "url": "https://store.steampowered.com",
+    "note": "永久保留 · 限时5天"
+  },
+  {
+    "title": "独立RPG合集",
+    "platform": "Epic",
+    "st": "soon",
+    "start": "2026-10-18T00:00:00+08:00",
+    "end": "2026-10-25T23:59:00+08:00",
+    "url": "https://store.epicgames.com",
+    "note": "限时领取 · 敬请期待"
+  }
+]

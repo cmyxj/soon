@@ -1,0 +1,180 @@
+{
+  "generated_at": "2026-10-18T10:43:46.693206",
+  "threshold": 85,
+  "big_count": 3,
+  "normal_count": 3,
+  "games": [
+    {
+      "id": 9001,
+      "title": "星河传说 Remastered",
+      "cat": "remaster",
+      "plats": [
+        "ps",
+        "xbox",
+        "pc"
+      ],
+      "tags": [
+        "RPG",
+        "高清重制"
+      ],
+      "retro": true,
+      "date": "2026-10-30T10:43:46",
+      "desc": "（演示数据）星河传说 Remastered 是即将发售的 怀旧重制，此处为示例描述。",
+      "cover": null,
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "xbox": "https://www.xbox.com/zh-CN/games"
+      },
+      "popularity": 95,
+      "hypes": null,
+      "rating": null
+    },
+    {
+      "id": 9002,
+      "title": "机甲风暴 20周年合集",
+      "cat": "remaster",
+      "plats": [
+        "pc",
+        "sw"
+      ],
+      "tags": [
+        "动作",
+        "合集"
+      ],
+      "retro": true,
+      "date": "2026-11-07T10:43:46",
+      "desc": "（演示数据）机甲风暴 20周年合集 是即将发售的 怀旧重制，此处为示例描述。",
+      "cover": null,
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 90,
+      "hypes": null,
+      "rating": null
+    },
+    {
+      "id": 9003,
+      "title": "旧日幻境：遗迹",
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc",
+        "sw"
+      ],
+      "tags": [
+        "探索",
+        "3D"
+      ],
+      "retro": false,
+      "date": "2026-10-24T10:43:46",
+      "desc": "（演示数据）旧日幻境：遗迹 是即将发售的 新作，此处为示例描述。",
+      "cover": null,
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 88,
+      "hypes": null,
+      "rating": null
+    },
+    {
+      "id": 9004,
+      "title": "像素王国 2",
+      "cat": "new",
+      "plats": [
+        "sw",
+        "pc"
+      ],
+      "tags": [
+        "冒险",
+        "像素"
+      ],
+      "retro": false,
+      "date": "2026-11-13T10:43:46",
+      "desc": "（演示数据）像素王国 2 是即将发售的 新作，此处为示例描述。",
+      "cover": null,
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 78,
+      "hypes": null,
+      "rating": null
+    },
+    {
+      "id": 9005,
+      "title": "暗夜残响：导演版",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "恐怖"
+      ],
+      "retro": false,
+      "date": "2026-10-21T10:43:46",
+      "desc": "（演示数据）暗夜残响：导演版 是即将发售的 新作，此处为示例描述。",
+      "cover": null,
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 84,
+      "hypes": null,
+      "rating": null
+    },
+    {
+      "id": 9006,
+      "title": "深海迷踪",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "解谜",
+        "叙事"
+      ],
+      "retro": false,
+      "date": "2026-11-17T10:43:46",
+      "desc": "（演示数据）深海迷踪 是即将发售的 新作，此处为示例描述。",
+      "cover": null,
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 62,
+      "hypes": null,
+      "rating": null
+    }
+  ],
+  "free": [
+    {
+      "title": "横版冒险精选集",
+      "platform": "Epic",
+      "st": "avail",
+      "start": "2026-10-10T00:00:00+08:00",
+      "end": "2026-10-19T23:59:00+08:00",
+      "url": "https://store.epicgames.com",
+      "note": "永久保留 · 限时7天"
+    },
+    {
+      "title": "复古飞行模拟",
+      "platform": "Steam",
+      "st": "avail",
+      "start": "2026-10-14T00:00:00+08:00",
+      "end": "2026-10-18T23:59:00+08:00",
+      "url": "https://store.steampowered.com",
+      "note": "永久保留 · 限时5天"
+    },
+    {
+      "title": "独立RPG合集",
+      "platform": "Epic",
+      "st": "soon",
+      "start": "2026-10-18T00:00:00+08:00",
+      "end": "2026-10-25T23:59:00+08:00",
+      "url": "https://store.epicgames.com",
+      "note": "限时领取 · 敬请期待"
+    }
+  ]
+}

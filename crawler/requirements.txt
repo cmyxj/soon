@@ -1,0 +1,2 @@
+# 仅用 Python 标准库，无需额外依赖。
+# 如需更健壮的 HTTP，可 pip install requests（可选）。
