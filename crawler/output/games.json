@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-10-18T04:38:26.619070",
+  "generated_at": "2026-10-18T04:58:15.039332",
   "threshold": 50,
   "big_count": 4,
   "normal_count": 55,
   "games": [
     {
       "id": 52189,
-      "title": "Grand Theft Auto VI",
+      "title": "侠盗猎车手 VI",
+      "title_en": "Grand Theft Auto VI",
       "cat": "new",
       "plats": [
         "ps"
@@ -28,11 +29,12 @@
     },
     {
       "id": 250618,
-      "title": "Phantom Blade Zero",
+      "title": "影之刃零",
+      "title_en": "Phantom Blade Zero",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -52,7 +54,8 @@
     },
     {
       "id": 405460,
-      "title": "The Legend of Zelda: Ocarina of Time",
+      "title": "塞尔达传说：时之笛",
+      "title_en": "The Legend of Zelda: Ocarina of Time",
       "cat": "new",
       "plats": [
         "sw"
@@ -73,12 +76,13 @@
     },
     {
       "id": 403310,
-      "title": "Call of Duty: Modern Warfare 4",
+      "title": "使命召唤：现代战争 4",
+      "title_en": "Call of Duty: Modern Warfare 4",
       "cat": "new",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Shooter"
@@ -98,12 +102,13 @@
     },
     {
       "id": 314449,
-      "title": "Hela: Of Mice & Magic",
+      "title": "赫拉：小鼠与魔法",
+      "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -123,12 +128,13 @@
     },
     {
       "id": 405454,
-      "title": "Final Fantasy Resonance",
+      "title": "最终幻想：共鸣",
+      "title_en": "Final Fantasy Resonance",
       "cat": "new",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -149,12 +155,13 @@
     },
     {
       "id": 404716,
-      "title": "The Wolf Among Us Remastered",
+      "title": "我们身边的狼：重制版",
+      "title_en": "The Wolf Among Us Remastered",
       "cat": "remaster",
       "plats": [
-        "pc",
+        "sw",
         "ps",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Point-and-click",
@@ -175,11 +182,12 @@
     },
     {
       "id": 381212,
-      "title": "Stupid Never Dies",
+      "title": "蠢蛋永存",
+      "title_en": "Stupid Never Dies",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -199,7 +207,8 @@
     },
     {
       "id": 405451,
-      "title": "Nintendo Switch Sports Resort",
+      "title": "Nintendo Switch 运动度假村",
+      "title_en": "Nintendo Switch Sports Resort",
       "cat": "new",
       "plats": [
         "sw"
@@ -220,12 +229,13 @@
     },
     {
       "id": 394670,
-      "title": "Remothered: Red Nun's Legacy",
+      "title": "雷莫茜德：红修女的遗产",
+      "title_en": "Remothered: Red Nun's Legacy",
       "cat": "new",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Puzzle",
@@ -246,11 +256,12 @@
     },
     {
       "id": 393015,
-      "title": "We Were Here Tomorrow",
+      "title": "我们曾在这里：明日",
+      "title_en": "We Were Here Tomorrow",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Puzzle",
@@ -270,12 +281,13 @@
     },
     {
       "id": 258775,
-      "title": "Queen's Domain",
+      "title": "女王领域",
+      "title_en": "Queen's Domain",
       "cat": "new",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -296,7 +308,8 @@
     },
     {
       "id": 382400,
-      "title": "Trees Hate You",
+      "title": "树与你为敌",
+      "title_en": "Trees Hate You",
       "cat": "new",
       "plats": [
         "pc"
@@ -318,12 +331,13 @@
     },
     {
       "id": 376145,
-      "title": "Warhammer Survivors",
+      "title": "战锤：幸存者",
+      "title_en": "Warhammer Survivors",
       "cat": "new",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -344,11 +358,12 @@
     },
     {
       "id": 296564,
-      "title": "Terrible Lizards",
+      "title": "恐怖蜥蜴",
+      "title_en": "Terrible Lizards",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure",
@@ -368,11 +383,12 @@
     },
     {
       "id": 265267,
-      "title": "Tom the Postgirl",
+      "title": "邮差女孩汤姆",
+      "title_en": "Tom the Postgirl",
       "cat": "new",
       "plats": [
-        "pc",
-        "sw"
+        "sw",
+        "pc"
       ],
       "tags": [
         "Adventure",
@@ -392,11 +408,12 @@
     },
     {
       "id": 310336,
-      "title": "Nocturnal II",
+      "title": "暗夜 2",
+      "title_en": "Nocturnal II",
       "cat": "new",
       "plats": [
-        "pc",
-        "sw"
+        "sw",
+        "pc"
       ],
       "tags": [
         "Adventure",
@@ -416,7 +433,8 @@
     },
     {
       "id": 381077,
-      "title": "Virtue and a Sledgehammer",
+      "title": "美德与大锤",
+      "title_en": "Virtue and a Sledgehammer",
       "cat": "new",
       "plats": [
         "pc"
@@ -437,7 +455,8 @@
     },
     {
       "id": 329692,
-      "title": "Am I Nima",
+      "title": "我是尼玛吗",
+      "title_en": "Am I Nima",
       "cat": "new",
       "plats": [
         "pc"
@@ -459,7 +478,8 @@
     },
     {
       "id": 335232,
-      "title": "Appulse",
+      "title": "脉冲弹珠",
+      "title_en": "Appulse",
       "cat": "new",
       "plats": [
         "pc"
@@ -481,7 +501,8 @@
     },
     {
       "id": 417650,
-      "title": "World of Warcraft: Forever",
+      "title": "魔兽世界：永恒",
+      "title_en": "World of Warcraft: Forever",
       "cat": "new",
       "plats": [
         "pc"
@@ -503,7 +524,8 @@
     },
     {
       "id": 407999,
-      "title": "Grand Theft Auto VI: Ultimate Edition",
+      "title": "侠盗猎车手 VI：终极版",
+      "title_en": "Grand Theft Auto VI: Ultimate Edition",
       "cat": "new",
       "plats": [
         "ps"
@@ -525,7 +547,8 @@
     },
     {
       "id": 385308,
-      "title": "Milki Delivery",
+      "title": "送奶记",
+      "title_en": "Milki Delivery",
       "cat": "new",
       "plats": [
         "pc"
@@ -547,7 +570,8 @@
     },
     {
       "id": 378896,
-      "title": "Lost Host",
+      "title": "迷途小车",
+      "title_en": "Lost Host",
       "cat": "new",
       "plats": [
         "pc"
@@ -569,7 +593,8 @@
     },
     {
       "id": 378426,
-      "title": "Night Plane",
+      "title": "夜航班机",
+      "title_en": "Night Plane",
       "cat": "new",
       "plats": [
         "pc"
@@ -591,7 +616,8 @@
     },
     {
       "id": 341980,
-      "title": "Demon Bluff",
+      "title": "恶魔虚张声势",
+      "title_en": "Demon Bluff",
       "cat": "new",
       "plats": [
         "pc"
@@ -613,7 +639,8 @@
     },
     {
       "id": 405102,
-      "title": "Star Trek: Outposts Unknown",
+      "title": "星际迷航：未知前哨",
+      "title_en": "Star Trek: Outposts Unknown",
       "cat": "new",
       "plats": [
         "pc"
@@ -634,7 +661,8 @@
     },
     {
       "id": 394023,
-      "title": "Cozy Game Restoration",
+      "title": "温馨游戏修复师",
+      "title_en": "Cozy Game Restoration",
       "cat": "new",
       "plats": [
         "pc"
@@ -655,7 +683,8 @@
     },
     {
       "id": 378342,
-      "title": "Wielders of the Essence",
+      "title": "精华之刃",
+      "title_en": "Wielders of the Essence",
       "cat": "new",
       "plats": [
         "pc"
@@ -676,7 +705,8 @@
     },
     {
       "id": 358766,
-      "title": "Gothic 3 Classic",
+      "title": "哥特王朝 3 经典版",
+      "title_en": "Gothic 3 Classic",
       "cat": "remaster",
       "plats": [
         "ps"
@@ -698,7 +728,8 @@
     },
     {
       "id": 347898,
-      "title": "Hope in the City",
+      "title": "城市之光",
+      "title_en": "Hope in the City",
       "cat": "new",
       "plats": [
         "pc"
@@ -720,7 +751,8 @@
     },
     {
       "id": 334698,
-      "title": "Lacey's Flash Games",
+      "title": "莱西的闪存游戏",
+      "title_en": "Lacey's Flash Games",
       "cat": "new",
       "plats": [
         "pc"
@@ -742,7 +774,8 @@
     },
     {
       "id": 292419,
-      "title": "Cat Secretary",
+      "title": "猫咪秘书",
+      "title_en": "Cat Secretary",
       "cat": "new",
       "plats": [
         "pc"
@@ -764,7 +797,8 @@
     },
     {
       "id": 258341,
-      "title": "Neo Junk City",
+      "title": "新垃圾城",
+      "title_en": "Neo Junk City",
       "cat": "new",
       "plats": [
         "pc"
@@ -786,7 +820,8 @@
     },
     {
       "id": 247780,
-      "title": "Portabellows",
+      "title": "蘑菇大餐",
+      "title_en": "Portabellows",
       "cat": "new",
       "plats": [
         "pc"
@@ -808,7 +843,8 @@
     },
     {
       "id": 416105,
-      "title": "Hunter's Moon",
+      "title": "猎人之月",
+      "title_en": "Hunter's Moon",
       "cat": "new",
       "plats": [
         "ps"
@@ -829,11 +865,12 @@
     },
     {
       "id": 405435,
-      "title": "One Piece: Grand Gourmet",
+      "title": "海贼王：大美食家",
+      "title_en": "One Piece: Grand Gourmet",
       "cat": "new",
       "plats": [
-        "pc",
-        "sw"
+        "sw",
+        "pc"
       ],
       "tags": [
         "Simulator"
@@ -852,11 +889,12 @@
     },
     {
       "id": 405077,
-      "title": "Age of Empires IV: Raiders of the North",
+      "title": "帝国时代 IV：北方入侵者",
+      "title_en": "Age of Empires IV: Raiders of the North",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Strategy"
@@ -875,12 +913,13 @@
     },
     {
       "id": 404939,
-      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "title": "哥斯拉：毁灭全怪兽混战 重制版",
+      "title_en": "Godzilla: Destroy All Monsters Melee Remastered",
       "cat": "remaster",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Fighting"
@@ -900,12 +939,13 @@
     },
     {
       "id": 404714,
-      "title": "Sonic Pico Park",
+      "title": "索尼克：皮克公园",
+      "title_en": "Sonic Pico Park",
       "cat": "new",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Puzzle"
@@ -925,11 +965,12 @@
     },
     {
       "id": 403821,
-      "title": "Chivalware",
+      "title": "骑士拼图",
+      "title_en": "Chivalware",
       "cat": "new",
       "plats": [
-        "pc",
-        "sw"
+        "sw",
+        "pc"
       ],
       "tags": [
         "Adventure",
@@ -949,7 +990,8 @@
     },
     {
       "id": 400112,
-      "title": "Wilderdark",
+      "title": "荒野暗夜",
+      "title_en": "Wilderdark",
       "cat": "new",
       "plats": [
         "pc"
@@ -971,11 +1013,12 @@
     },
     {
       "id": 391801,
-      "title": "Curse of Resthaven",
+      "title": "雷斯特港的诅咒",
+      "title_en": "Curse of Resthaven",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -994,7 +1037,8 @@
     },
     {
       "id": 365273,
-      "title": "The Mailroom",
+      "title": "地狱邮件室",
+      "title_en": "The Mailroom",
       "cat": "new",
       "plats": [
         "pc"
@@ -1016,11 +1060,12 @@
     },
     {
       "id": 416123,
-      "title": "Where the Seeds Fall",
+      "title": "种子飘落之处",
+      "title_en": "Where the Seeds Fall",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -1040,12 +1085,13 @@
     },
     {
       "id": 411706,
-      "title": "Croc 2: Kingdom of the Gobbos",
+      "title": "鳄鱼小顽皮 2：哥布林王国",
+      "title_en": "Croc 2: Kingdom of the Gobbos",
       "cat": "new",
       "plats": [
-        "ps",
+        "sw",
         "pc",
-        "sw"
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -1067,6 +1113,7 @@
     {
       "id": 403819,
       "title": "Theos: Cities of Myth",
+      "title_en": null,
       "cat": "new",
       "plats": [
         "pc"
@@ -1089,11 +1136,12 @@
     {
       "id": 402530,
       "title": "Anomalith",
+      "title_en": null,
       "cat": "new",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -1115,6 +1163,7 @@
     {
       "id": 360260,
       "title": "Monomoon",
+      "title_en": null,
       "cat": "new",
       "plats": [
         "pc"
@@ -1137,6 +1186,7 @@
     {
       "id": 359885,
       "title": "Ashes of the Singularity II",
+      "title_en": null,
       "cat": "new",
       "plats": [
         "pc"
@@ -1159,6 +1209,7 @@
     {
       "id": 346933,
       "title": "Aspis",
+      "title_en": null,
       "cat": "new",
       "plats": [
         "pc"
@@ -1181,11 +1232,12 @@
     {
       "id": 332314,
       "title": "Baptiste",
+      "title_en": null,
       "cat": "new",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Adventure",
@@ -1207,6 +1259,7 @@
     {
       "id": 321579,
       "title": "Danchi Days",
+      "title_en": null,
       "cat": "new",
       "plats": [
         "pc"
@@ -1229,6 +1282,7 @@
     {
       "id": 123765,
       "title": "Airport Contraband",
+      "title_en": null,
       "cat": "new",
       "plats": [
         "pc"
@@ -1251,10 +1305,11 @@
     {
       "id": 416102,
       "title": "Crimson Desert: Charting the Unknown",
+      "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -1274,6 +1329,7 @@
     {
       "id": 416083,
       "title": "Dino Crisis 2",
+      "title_en": null,
       "cat": "new",
       "plats": [
         "ps"
@@ -1296,6 +1352,7 @@
     {
       "id": 415120,
       "title": "Dumpster Gang",
+      "title_en": null,
       "cat": "new",
       "plats": [
         "pc"
@@ -1318,6 +1375,7 @@
     {
       "id": 414126,
       "title": "You Are Empty: Absolute Edition",
+      "title_en": null,
       "cat": "new",
       "plats": [
         "pc"
@@ -1339,11 +1397,12 @@
     {
       "id": 412520,
       "title": "Warrior Cats: Clans of the Forest",
+      "title_en": null,
       "cat": "new",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
