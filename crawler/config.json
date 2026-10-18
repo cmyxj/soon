@@ -1,9 +1,0 @@
-{
-  "igdb": {
-    "client_id": "",
-    "client_secret": ""
-  },
-  "days_ahead": 45,
-  "limit": 60,
-  "popularity_threshold": 85
-}
