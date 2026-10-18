@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T12:55:36.638948",
+  "generated_at": "2026-10-18T13:07:54.084379",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -110,7 +110,7 @@
       "title_en": "The Legend of Zelda: Ocarina of Time",
       "cat": "new",
       "plats": [
-        "sw"
+        "sw2"
       ],
       "tags": [
         "Adventure"
@@ -120,7 +120,7 @@
       "desc": "The evil Ganondorf is scheming to steal the mythical Triforce from the Sacred Realm and ta",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocv5r.jpg",
       "store": {
-        "sw": "https://www.nintendo.com"
+        "sw2": "https://www.nintendo.com"
       },
       "popularity": 76,
       "hypes": 76,
@@ -132,8 +132,9 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "sw"
+        "sw",
+        "sw2",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -145,7 +146,8 @@
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocce4.jpg",
       "store": {
         "pc": "https://store.steampowered.com",
-        "sw": "https://www.nintendo.com"
+        "sw": "https://www.nintendo.com",
+        "sw2": "https://www.nintendo.com"
       },
       "popularity": 71,
       "hypes": 71,
@@ -182,9 +184,9 @@
       "title_en": null,
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -197,7 +199,7 @@
       "store": {
         "pc": "https://store.steampowered.com",
         "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com"
+        "sw2": "https://www.nintendo.com"
       },
       "popularity": 59,
       "hypes": 59,
@@ -209,7 +211,7 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "sw"
+        "sw2"
       ],
       "tags": [],
       "retro": false,
@@ -217,7 +219,7 @@
       "desc": "An online multiplayer PvPvE game where players vie for supremacy among themselves and agai",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocqn8.jpg",
       "store": {
-        "sw": "https://www.nintendo.com"
+        "sw2": "https://www.nintendo.com"
       },
       "popularity": 59,
       "hypes": 59,
@@ -254,9 +256,9 @@
       "title_en": "Call of Duty: Modern Warfare 4",
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Shooter"
@@ -268,7 +270,7 @@
       "store": {
         "pc": "https://store.steampowered.com",
         "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com"
+        "sw2": "https://www.nintendo.com"
       },
       "popularity": 52,
       "hypes": 52,
@@ -280,9 +282,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -294,7 +296,7 @@
       "store": {
         "pc": "https://store.steampowered.com",
         "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com"
+        "sw2": "https://www.nintendo.com"
       },
       "popularity": 48,
       "hypes": 48,
@@ -379,9 +381,10 @@
       "title_en": null,
       "cat": "new",
       "plats": [
+        "sw",
+        "sw2",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Puzzle",
@@ -394,7 +397,8 @@
       "store": {
         "pc": "https://store.steampowered.com",
         "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com"
+        "sw": "https://www.nintendo.com",
+        "sw2": "https://www.nintendo.com"
       },
       "popularity": 37,
       "hypes": 37,
@@ -406,9 +410,9 @@
       "title_en": null,
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -421,7 +425,7 @@
       "store": {
         "pc": "https://store.steampowered.com",
         "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com"
+        "sw2": "https://www.nintendo.com"
       },
       "popularity": 35,
       "hypes": 35,
@@ -479,9 +483,10 @@
       "title_en": "Final Fantasy Resonance",
       "cat": "new",
       "plats": [
+        "sw",
+        "sw2",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -494,7 +499,8 @@
       "store": {
         "pc": "https://store.steampowered.com",
         "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com"
+        "sw": "https://www.nintendo.com",
+        "sw2": "https://www.nintendo.com"
       },
       "popularity": 31,
       "hypes": 31,
