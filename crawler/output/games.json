@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-18T07:10:01.296318",
-  "min_hypes": 8,
-  "top_n": 15,
+  "generated_at": "2026-10-18T12:55:36.638948",
+  "min_hypes": 5,
+  "top_n": 20,
   "big_hypes": 120,
   "big_count": 2,
-  "normal_count": 13,
+  "normal_count": 18,
   "games": [
     {
       "id": 52189,
@@ -35,8 +35,8 @@
       "title_en": "Phantom Blade Zero",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -50,8 +50,58 @@
         "pc": "https://store.steampowered.com",
         "ps": "https://store.playstation.com"
       },
-      "popularity": 219,
-      "hypes": 219,
+      "popularity": 220,
+      "hypes": 220,
+      "rating": null
+    },
+    {
+      "id": 325599,
+      "title": "Stranger Than Heaven",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc"
+      ],
+      "tags": [
+        "Fighting",
+        "Puzzle"
+      ],
+      "retro": false,
+      "date": "2027-01-15T00:00:00",
+      "desc": "Stranger Than Heaven is an upcoming action-adventure game developed by Ryu Ga Gotoku Studi",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobu6l.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 114,
+      "hypes": 114,
+      "rating": null
+    },
+    {
+      "id": 262712,
+      "title": "Ananta",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2027-01-15T00:00:00",
+      "desc": "Take on the role of an elite Agent within the A.C.D. (Anti-Chaos Directorate) embarking on",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocrlo.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 94,
+      "hypes": 94,
       "rating": null
     },
     {
@@ -77,14 +127,136 @@
       "rating": null
     },
     {
+      "id": 67195,
+      "title": "Witchbrook",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "retro": false,
+      "date": "2026-12-31T00:00:00",
+      "desc": "Experience the thrills and pitfalls of school-life in Witchbrook! Discover a spellbinding ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocce4.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 71,
+      "hypes": 71,
+      "rating": null
+    },
+    {
+      "id": 348199,
+      "title": "Mudang: Two Hearts",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc"
+      ],
+      "tags": [
+        "Shooter",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-12-31T00:00:00",
+      "desc": "MUDANG: Two Hearts is a narrative-driven, third-person action adventure that blends tactic",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9xzl.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 61,
+      "hypes": 61,
+      "rating": null
+    },
+    {
+      "id": 404044,
+      "title": "Rayman Legends Retold",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc",
+        "sw"
+      ],
+      "tags": [
+        "Platform",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-12-03T00:00:00",
+      "desc": "Embark on a bold reimagining of the beloved platformer, with new visuals and a retold stor",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc5tb.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 59,
+      "hypes": 59,
+      "rating": null
+    },
+    {
+      "id": 338104,
+      "title": "The Duskbloods",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "sw"
+      ],
+      "tags": [],
+      "retro": false,
+      "date": "2026-12-31T00:00:00",
+      "desc": "An online multiplayer PvPvE game where players vie for supremacy among themselves and agai",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocqn8.jpg",
+      "store": {
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 59,
+      "hypes": 59,
+      "rating": null
+    },
+    {
+      "id": 305550,
+      "title": "Acts of Blood",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc"
+      ],
+      "tags": [
+        "Fighting",
+        "Hack and slash/Beat 'em up"
+      ],
+      "retro": false,
+      "date": "2026-12-04T00:00:00",
+      "desc": "Acts of Blood is a Beat ‘em up, Action, 3rd person game which focuses on fast-paced, bruta",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc6oq.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 58,
+      "hypes": 58,
+      "rating": null
+    },
+    {
       "id": 403310,
       "title": "使命召唤：现代战争 4",
       "title_en": "Call of Duty: Modern Warfare 4",
       "cat": "new",
       "plats": [
+        "ps",
         "pc",
-        "sw",
-        "ps"
+        "sw"
       ],
       "tags": [
         "Shooter"
@@ -108,9 +280,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
+        "ps",
         "pc",
-        "sw",
-        "ps"
+        "sw"
       ],
       "tags": [
         "Adventure"
@@ -129,14 +301,187 @@
       "rating": null
     },
     {
+      "id": 372154,
+      "title": "Bellum",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Shooter",
+        "Strategy"
+      ],
+      "retro": false,
+      "date": "2026-12-31T00:00:00",
+      "desc": "Bellum is the next evolution of platoon-scale tactical shooters, built in Unreal Engine 5 ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coan5y.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 42,
+      "hypes": 42,
+      "rating": null
+    },
+    {
+      "id": 186613,
+      "title": "Showa American Story",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-12-31T00:00:00",
+      "desc": "Showa American Story is a brand new RPG and an enthusiastic love letter to the 80s' pop cu",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4bv1.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 42,
+      "hypes": 42,
+      "rating": null
+    },
+    {
+      "id": 26200,
+      "title": "Infinitesimals",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc"
+      ],
+      "tags": [
+        "Shooter",
+        "Simulator"
+      ],
+      "retro": false,
+      "date": "2026-12-31T00:00:00",
+      "desc": "Infinitesimals is a story-driven, 3rd person action adventure where you play as tiny alien",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9xhr.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 38,
+      "hypes": 38,
+      "rating": null
+    },
+    {
+      "id": 236665,
+      "title": "Professor Layton and the New World of Steam",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc",
+        "sw"
+      ],
+      "tags": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-12-10T00:00:00",
+      "desc": "Professor Layton and the New World of Steam depicts the world one year after the events of",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co66va.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 37,
+      "hypes": 37,
+      "rating": null
+    },
+    {
+      "id": 378225,
+      "title": "Armatus",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc",
+        "sw"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2027-01-07T00:00:00",
+      "desc": "ARMATUS is a third-person roguelite shooter set in the demon-infested ruins of Paris. As t",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coave0.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 35,
+      "hypes": 35,
+      "rating": null
+    },
+    {
+      "id": 361859,
+      "title": "Warhammer 40,000: Dawn of War IV",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Strategy"
+      ],
+      "retro": false,
+      "date": "2026-12-03T00:00:00",
+      "desc": "Return to the RTS series’ roots with deeply satisfying strategy gameplay. Take command of ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaaxx.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 34,
+      "hypes": 34,
+      "rating": null
+    },
+    {
+      "id": 381208,
+      "title": "TankRat",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc"
+      ],
+      "tags": [
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2027-01-15T00:00:00",
+      "desc": "A dying world, flesh given way to steel. Swarms of corrupted mech-monsters roam a desolate",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob0ej.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 32,
+      "hypes": 32,
+      "rating": null
+    },
+    {
       "id": 405454,
       "title": "最终幻想：共鸣",
       "title_en": "Final Fantasy Resonance",
       "cat": "new",
       "plats": [
+        "ps",
         "pc",
-        "sw",
-        "ps"
+        "sw"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -153,234 +498,6 @@
       },
       "popularity": 31,
       "hypes": 31,
-      "rating": null
-    },
-    {
-      "id": 404716,
-      "title": "我们身边的狼：重制版",
-      "title_en": "The Wolf Among Us Remastered",
-      "cat": "remaster",
-      "plats": [
-        "pc",
-        "sw",
-        "ps"
-      ],
-      "tags": [
-        "Point-and-click",
-        "Adventure"
-      ],
-      "retro": true,
-      "date": "2026-10-29T00:00:00",
-      "desc": "A dark detective thriller where folklore is real, violence is chilling, and every choice h",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc6r3.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com"
-      },
-      "popularity": 28,
-      "hypes": 28,
-      "rating": null
-    },
-    {
-      "id": 381212,
-      "title": "蠢蛋永存",
-      "title_en": "Stupid Never Dies",
-      "cat": "new",
-      "plats": [
-        "pc",
-        "ps"
-      ],
-      "tags": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "retro": false,
-      "date": "2026-10-21T00:00:00",
-      "desc": "Turn weak zombie Davy stupid strong, stupid fast in this Blazing Fast Growth action RPG! D",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc8br.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com"
-      },
-      "popularity": 25,
-      "hypes": 25,
-      "rating": null
-    },
-    {
-      "id": 405451,
-      "title": "Nintendo Switch 运动度假村",
-      "title_en": "Nintendo Switch Sports Resort",
-      "cat": "new",
-      "plats": [
-        "sw"
-      ],
-      "tags": [
-        "Sport"
-      ],
-      "retro": false,
-      "date": "2026-10-22T00:00:00",
-      "desc": "Get up and move in 12 motion-control sports! Gently swing your racket, pull back and aim l",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc7mb.jpg",
-      "store": {
-        "sw": "https://www.nintendo.com"
-      },
-      "popularity": 17,
-      "hypes": 17,
-      "rating": null
-    },
-    {
-      "id": 394670,
-      "title": "雷莫茜德：红修女的遗产",
-      "title_en": "Remothered: Red Nun's Legacy",
-      "cat": "new",
-      "plats": [
-        "pc",
-        "sw",
-        "ps"
-      ],
-      "tags": [
-        "Puzzle",
-        "Adventure"
-      ],
-      "retro": false,
-      "date": "2026-10-27T00:00:00",
-      "desc": "A kidnapping, a desperate mother, and a shadow from the past. The final chapter of the tri",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobrbr.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com"
-      },
-      "popularity": 17,
-      "hypes": 17,
-      "rating": null
-    },
-    {
-      "id": 393015,
-      "title": "我们曾在这里：明日",
-      "title_en": "We Were Here Tomorrow",
-      "cat": "new",
-      "plats": [
-        "pc",
-        "ps"
-      ],
-      "tags": [
-        "Puzzle",
-        "Adventure"
-      ],
-      "retro": false,
-      "date": "2026-10-20T00:00:00",
-      "desc": "You and your partner are taken to a mysterious facility where communication and cooperatio",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobwi7.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com"
-      },
-      "popularity": 15,
-      "hypes": 15,
-      "rating": null
-    },
-    {
-      "id": 258775,
-      "title": "女王领域",
-      "title_en": "Queen's Domain",
-      "cat": "new",
-      "plats": [
-        "pc",
-        "sw",
-        "ps"
-      ],
-      "tags": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "retro": false,
-      "date": "2026-10-30T00:00:00",
-      "desc": "A retro-fantasy action RPG with brutal combat and traversal-focused exploration. Embark on",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coay8v.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com"
-      },
-      "popularity": 14,
-      "hypes": 14,
-      "rating": null
-    },
-    {
-      "id": 382400,
-      "title": "树与你为敌",
-      "title_en": "Trees Hate You",
-      "cat": "new",
-      "plats": [
-        "pc"
-      ],
-      "tags": [
-        "Adventure",
-        "Indie"
-      ],
-      "retro": false,
-      "date": "2026-11-16T00:00:00",
-      "desc": "Hike through the worst forest full of the most horrible trees. Do not trust them. The tree",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob3ai.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com"
-      },
-      "popularity": 13,
-      "hypes": 13,
-      "rating": null
-    },
-    {
-      "id": 376145,
-      "title": "战锤：幸存者",
-      "title_en": "Warhammer Survivors",
-      "cat": "new",
-      "plats": [
-        "pc",
-        "sw",
-        "ps"
-      ],
-      "tags": [
-        "Role-playing (RPG)",
-        "Indie"
-      ],
-      "retro": false,
-      "date": "2026-11-10T00:00:00",
-      "desc": "Thrust into a universe of relentless war, become the embodiment of bullet hell in Warhamme",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coasoa.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com"
-      },
-      "popularity": 13,
-      "hypes": 13,
-      "rating": null
-    },
-    {
-      "id": 296564,
-      "title": "恐怖蜥蜴",
-      "title_en": "Terrible Lizards",
-      "cat": "new",
-      "plats": [
-        "pc",
-        "ps"
-      ],
-      "tags": [
-        "Adventure",
-        "Indie"
-      ],
-      "retro": false,
-      "date": "2026-10-29T00:00:00",
-      "desc": "Terrible Lizards is a horror parkour game set against the backdrop of an old Route 66 attr",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coboiu.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com"
-      },
-      "popularity": 12,
-      "hypes": 12,
       "rating": null
     }
   ]
