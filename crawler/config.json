@@ -5,5 +5,5 @@
   },
   "days_ahead": 45,
   "limit": 60,
-  "popularity_threshold": 5000
+  "popularity_threshold": 50
 }
