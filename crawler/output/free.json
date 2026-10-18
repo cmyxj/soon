@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:12:07.678053",
+  "generated_at": "2026-10-18T06:25:03.181548",
   "free": [
     {
       "title": "Bad Cheese",
@@ -8,7 +8,8 @@
       "start": "2026-10-15T15:00:00",
       "end": "2026-10-22T15:00:00",
       "url": "https://store.epicgames.com/zh-CN/p/ae5d8fc5541f42eea105f64121dba382",
-      "note": "Epic 每周免费"
+      "note": "Epic 每周免费",
+      "cover": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-kcgyv.png"
     },
     {
       "title": "Agent A - 伪装游戏",
@@ -17,7 +18,8 @@
       "start": "2026-10-15T15:00:00",
       "end": "2026-10-22T15:00:00",
       "url": "https://store.epicgames.com/zh-CN/p/agent-a-a-puzzle-in-disguise",
-      "note": "Epic 每周免费"
+      "note": "Epic 每周免费",
+      "cover": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png"
     },
     {
       "title": "横版冒险精选集",
