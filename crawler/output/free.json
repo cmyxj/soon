@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-18T05:59:01.270263",
+  "generated_at": "2026-10-18T06:12:07.678053",
   "free": [
+    {
+      "title": "Bad Cheese",
+      "platform": "epic",
+      "st": "avail",
+      "start": "2026-10-15T15:00:00",
+      "end": "2026-10-22T15:00:00",
+      "url": "https://store.epicgames.com/zh-CN/p/ae5d8fc5541f42eea105f64121dba382",
+      "note": "Epic 每周免费"
+    },
+    {
+      "title": "Agent A - 伪装游戏",
+      "platform": "epic",
+      "st": "avail",
+      "start": "2026-10-15T15:00:00",
+      "end": "2026-10-22T15:00:00",
+      "url": "https://store.epicgames.com/zh-CN/p/agent-a-a-puzzle-in-disguise",
+      "note": "Epic 每周免费"
+    },
     {
       "title": "横版冒险精选集",
       "platform": "Epic",
