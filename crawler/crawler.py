@@ -50,13 +50,17 @@ def get_igdb_creds(cfg):
 
 
 def igdb_token(cid, csec):
-    """换取 IGDB 访问令牌（Twitch OAuth）。"""
-    url = IGDB_TOKEN_URL + "?" + urllib.parse.urlencode({
+    """换取 IGDB 访问令牌（Twitch OAuth）。Twitch 端点必须用 POST 提交参数。"""
+    body = urllib.parse.urlencode({
         "client_id": cid,
         "client_secret": csec,
         "grant_type": "client_credentials",
-    })
-    with urllib.request.urlopen(url, timeout=30) as r:
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        IGDB_TOKEN_URL, data=body, method="POST",
+        headers={"Content-Type": "application/x-www-form-urlencoded"},
+    )
+    with urllib.request.urlopen(req, timeout=30) as r:
         return json.load(r)["access_token"]
 
 
