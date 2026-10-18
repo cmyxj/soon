@@ -1,150 +1,1365 @@
 {
-  "generated_at": "2026-10-18T10:43:46.693206",
-  "threshold": 85,
-  "big_count": 3,
-  "normal_count": 3,
+  "generated_at": "2026-10-18T04:25:41.819693",
+  "threshold": 5000,
+  "big_count": 0,
+  "normal_count": 59,
   "games": [
     {
-      "id": 9001,
-      "title": "星河传说 Remastered",
-      "cat": "remaster",
-      "plats": [
-        "ps",
-        "xbox",
-        "pc"
-      ],
-      "tags": [
-        "RPG",
-        "高清重制"
-      ],
-      "retro": true,
-      "date": "2026-10-30T10:43:46",
-      "desc": "（演示数据）星河传说 Remastered 是即将发售的 怀旧重制，此处为示例描述。",
-      "cover": null,
-      "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com",
-        "xbox": "https://www.xbox.com/zh-CN/games"
-      },
-      "popularity": 95,
-      "hypes": null,
-      "rating": null
-    },
-    {
-      "id": 9002,
-      "title": "机甲风暴 20周年合集",
-      "cat": "remaster",
-      "plats": [
-        "pc",
-        "sw"
-      ],
-      "tags": [
-        "动作",
-        "合集"
-      ],
-      "retro": true,
-      "date": "2026-11-07T10:43:46",
-      "desc": "（演示数据）机甲风暴 20周年合集 是即将发售的 怀旧重制，此处为示例描述。",
-      "cover": null,
-      "store": {
-        "pc": "https://store.steampowered.com",
-        "sw": "https://www.nintendo.com"
-      },
-      "popularity": 90,
-      "hypes": null,
-      "rating": null
-    },
-    {
-      "id": 9003,
-      "title": "旧日幻境：遗迹",
+      "id": 52189,
+      "title": "Grand Theft Auto VI",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc",
-        "sw"
+        "ps"
       ],
       "tags": [
-        "探索",
-        "3D"
+        "Shooter",
+        "Racing"
       ],
       "retro": false,
-      "date": "2026-10-24T10:43:46",
-      "desc": "（演示数据）旧日幻境：遗迹 是即将发售的 新作，此处为示例描述。",
-      "cover": null,
+      "date": "2026-11-19T00:00:00",
+      "desc": "Grand Theft Auto VI heads to the state of Leonida, home to the neon-soaked streets of Vice",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocv1v.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com"
+        "ps": "https://store.playstation.com"
       },
-      "popularity": 88,
-      "hypes": null,
+      "popularity": 1102,
+      "hypes": 1102,
       "rating": null
     },
     {
-      "id": 9004,
-      "title": "像素王国 2",
+      "id": 250618,
+      "title": "Phantom Blade Zero",
       "cat": "new",
       "plats": [
+        "pc",
+        "ps"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up"
+      ],
+      "retro": false,
+      "date": "2026-10-29T00:00:00",
+      "desc": "Framed for the death of his master and left with a ruined heart, Soul has sixty-six days t",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cococe.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 219,
+      "hypes": 219,
+      "rating": null
+    },
+    {
+      "id": 405460,
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "cat": "new",
+      "plats": [
+        "sw"
+      ],
+      "tags": [
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-11-05T00:00:00",
+      "desc": "The evil Ganondorf is scheming to steal the mythical Triforce from the Sacred Realm and ta",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocv5r.jpg",
+      "store": {
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 76,
+      "hypes": 76,
+      "rating": null
+    },
+    {
+      "id": 403310,
+      "title": "Call of Duty: Modern Warfare 4",
+      "cat": "new",
+      "plats": [
+        "pc",
         "sw",
+        "ps"
+      ],
+      "tags": [
+        "Shooter"
+      ],
+      "retro": false,
+      "date": "2026-10-23T00:00:00",
+      "desc": "Call of Duty: Modern Warfare 4 is a first-person shooter and the follow-up to Modern Warfa",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc4mu.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 52,
+      "hypes": 52,
+      "rating": null
+    },
+    {
+      "id": 314449,
+      "title": "Hela: Of Mice & Magic",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-12-01T00:00:00",
+      "desc": "See the world through the eyes of a brave little mouse in this enchanting 3D co-op adventu",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cod34q.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 48,
+      "hypes": 48,
+      "rating": null
+    },
+    {
+      "id": 405454,
+      "title": "Final Fantasy Resonance",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-22T00:00:00",
+      "desc": "Return to the pixelart world of FINAL FANTASY, evolved from its classic roots. Travel with",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc7q4.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 31,
+      "hypes": 31,
+      "rating": null
+    },
+    {
+      "id": 404716,
+      "title": "The Wolf Among Us Remastered",
+      "cat": "remaster",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Point-and-click",
+        "Adventure"
+      ],
+      "retro": true,
+      "date": "2026-10-29T00:00:00",
+      "desc": "A dark detective thriller where folklore is real, violence is chilling, and every choice h",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc6r3.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 28,
+      "hypes": 28,
+      "rating": null
+    },
+    {
+      "id": 381212,
+      "title": "Stupid Never Dies",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "ps"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-21T00:00:00",
+      "desc": "Turn weak zombie Davy stupid strong, stupid fast in this Blazing Fast Growth action RPG! D",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc8br.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 25,
+      "hypes": 25,
+      "rating": null
+    },
+    {
+      "id": 405451,
+      "title": "Nintendo Switch Sports Resort",
+      "cat": "new",
+      "plats": [
+        "sw"
+      ],
+      "tags": [
+        "Sport"
+      ],
+      "retro": false,
+      "date": "2026-10-22T00:00:00",
+      "desc": "Get up and move in 12 motion-control sports! Gently swing your racket, pull back and aim l",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc7mb.jpg",
+      "store": {
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 17,
+      "hypes": 17,
+      "rating": null
+    },
+    {
+      "id": 394670,
+      "title": "Remothered: Red Nun's Legacy",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-27T00:00:00",
+      "desc": "A kidnapping, a desperate mother, and a shadow from the past. The final chapter of the tri",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobrbr.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 17,
+      "hypes": 17,
+      "rating": null
+    },
+    {
+      "id": 393015,
+      "title": "We Were Here Tomorrow",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "ps"
+      ],
+      "tags": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-20T00:00:00",
+      "desc": "You and your partner are taken to a mysterious facility where communication and cooperatio",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobwi7.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 15,
+      "hypes": 15,
+      "rating": null
+    },
+    {
+      "id": 258775,
+      "title": "Queen's Domain",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-30T00:00:00",
+      "desc": "A retro-fantasy action RPG with brutal combat and traversal-focused exploration. Embark on",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coay8v.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 14,
+      "hypes": 14,
+      "rating": null
+    },
+    {
+      "id": 382400,
+      "title": "Trees Hate You",
+      "cat": "new",
+      "plats": [
         "pc"
       ],
       "tags": [
-        "冒险",
-        "像素"
+        "Adventure",
+        "Indie"
       ],
       "retro": false,
-      "date": "2026-11-13T10:43:46",
-      "desc": "（演示数据）像素王国 2 是即将发售的 新作，此处为示例描述。",
-      "cover": null,
+      "date": "2026-11-16T00:00:00",
+      "desc": "Hike through the worst forest full of the most horrible trees. Do not trust them. The tree",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob3ai.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 13,
+      "hypes": 13,
+      "rating": null
+    },
+    {
+      "id": 376145,
+      "title": "Warhammer Survivors",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-11-10T00:00:00",
+      "desc": "Thrust into a universe of relentless war, become the embodiment of bullet hell in Warhamme",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coasoa.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 13,
+      "hypes": 13,
+      "rating": null
+    },
+    {
+      "id": 296564,
+      "title": "Terrible Lizards",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "ps"
+      ],
+      "tags": [
+        "Adventure",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-10-29T00:00:00",
+      "desc": "Terrible Lizards is a horror parkour game set against the backdrop of an old Route 66 attr",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coboiu.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 12,
+      "hypes": 12,
+      "rating": null
+    },
+    {
+      "id": 265267,
+      "title": "Tom the Postgirl",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw"
+      ],
+      "tags": [
+        "Adventure",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-10-29T00:00:00",
+      "desc": "Take a ride with Tom through her village and discover a great deal—perhaps too much—about ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8bj6.jpg",
       "store": {
         "pc": "https://store.steampowered.com",
         "sw": "https://www.nintendo.com"
       },
-      "popularity": 78,
-      "hypes": null,
+      "popularity": 11,
+      "hypes": 11,
       "rating": null
     },
     {
-      "id": 9005,
-      "title": "暗夜残响：导演版",
+      "id": 310336,
+      "title": "Nocturnal II",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw"
+      ],
+      "tags": [
+        "Adventure",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-11-10T00:00:00",
+      "desc": "Nocturnal 2 is an action-adventure game that lets you explore and rekindle the dark depths",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9vk5.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 10,
+      "hypes": 10,
+      "rating": null
+    },
+    {
+      "id": 381077,
+      "title": "Virtue and a Sledgehammer",
       "cat": "new",
       "plats": [
         "pc"
       ],
       "tags": [
-        "恐怖"
+        "Adventure"
       ],
       "retro": false,
-      "date": "2026-10-21T10:43:46",
-      "desc": "（演示数据）暗夜残响：导演版 是即将发售的 新作，此处为示例描述。",
-      "cover": null,
+      "date": "2026-10-27T00:00:00",
+      "desc": "Go back to your hometown and tear it down with a sledgehammer in this narrative exploratio",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob00e.jpg",
       "store": {
         "pc": "https://store.steampowered.com"
       },
-      "popularity": 84,
-      "hypes": null,
+      "popularity": 9,
+      "hypes": 9,
       "rating": null
     },
     {
-      "id": 9006,
-      "title": "深海迷踪",
+      "id": 329692,
+      "title": "Am I Nima",
       "cat": "new",
       "plats": [
         "pc"
       ],
       "tags": [
-        "解谜",
-        "叙事"
+        "Point-and-click",
+        "Adventure"
       ],
       "retro": false,
-      "date": "2026-11-17T10:43:46",
-      "desc": "（演示数据）深海迷踪 是即将发售的 新作，此处为示例描述。",
-      "cover": null,
+      "date": "2026-11-27T00:00:00",
+      "desc": "Am I Nima is a psychological-horror game where you must convince your mom that you really ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9y2g.jpg",
       "store": {
         "pc": "https://store.steampowered.com"
       },
-      "popularity": 62,
-      "hypes": null,
+      "popularity": 9,
+      "hypes": 9,
+      "rating": null
+    },
+    {
+      "id": 335232,
+      "title": "Appulse",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Shooter",
+        "Pinball"
+      ],
+      "retro": false,
+      "date": "2026-11-26T00:00:00",
+      "desc": "Discover pinball like never before with Appulse! The game is a roguelite shooter, where yo",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9u83.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 8,
+      "hypes": 8,
+      "rating": null
+    },
+    {
+      "id": 417650,
+      "title": "World of Warcraft: Forever",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-11-04T00:00:00",
+      "desc": "World of Warcraft: Forever is an invitation to take your first steps in a legendary world ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocxj2.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 7,
+      "hypes": 7,
+      "rating": null
+    },
+    {
+      "id": 407999,
+      "title": "Grand Theft Auto VI: Ultimate Edition",
+      "cat": "new",
+      "plats": [
+        "ps"
+      ],
+      "tags": [
+        "Shooter",
+        "Racing"
+      ],
+      "retro": false,
+      "date": "2026-11-19T00:00:00",
+      "desc": "Grand Theft Auto VI: Ultimate Edition amplifies the deepest and most immersive GTA experie",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocver.jpg",
+      "store": {
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 7,
+      "hypes": 7,
+      "rating": null
+    },
+    {
+      "id": 385308,
+      "title": "Milki Delivery",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Simulator",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-11-17T00:00:00",
+      "desc": "Grab your bike and milk bottles, let's hit the road! Explore the countryside in this short",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coblsh.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 7,
+      "hypes": 7,
+      "rating": null
+    },
+    {
+      "id": 378896,
+      "title": "Lost Host",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Adventure",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-11-04T00:00:00",
+      "desc": "Lost Host is a story-driven adventure puzzle game about a small toy car searching for its ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob3bs.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 7,
+      "hypes": 7,
+      "rating": null
+    },
+    {
+      "id": 378426,
+      "title": "Night Plane",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Simulator",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-26T00:00:00",
+      "desc": "Night Plane is a job-sim horror game where you work as a flight attendant on a doomed plan",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coct8k.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 7,
+      "hypes": 7,
+      "rating": null
+    },
+    {
+      "id": 341980,
+      "title": "Demon Bluff",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Puzzle",
+        "Strategy"
+      ],
+      "retro": false,
+      "date": "2026-11-01T00:00:00",
+      "desc": "The cards lie! In this single-player social deduction game, demons have infiltrated your v",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobxv9.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 7,
+      "hypes": 7,
+      "rating": null
+    },
+    {
+      "id": 405102,
+      "title": "Star Trek: Outposts Unknown",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Strategy"
+      ],
+      "retro": false,
+      "date": "2026-10-20T00:00:00",
+      "desc": "Lead your crew across strange new worlds in this narrative driven outpost builder! Researc",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc74n.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 6,
+      "hypes": 6,
+      "rating": null
+    },
+    {
+      "id": 394023,
+      "title": "Cozy Game Restoration",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Simulator"
+      ],
+      "retro": false,
+      "date": "2026-11-04T00:00:00",
+      "desc": "Cozy Game Restoration is a soothing simulator where you gently bring forgotten video game ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobsd7.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 6,
+      "hypes": 6,
+      "rating": null
+    },
+    {
+      "id": 378342,
+      "title": "Wielders of the Essence",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-11-05T00:00:00",
+      "desc": "Single-player horde survival with a touch of incremental base building. Eight-minute runs.",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocw3k.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 6,
+      "hypes": 6,
+      "rating": null
+    },
+    {
+      "id": 358766,
+      "title": "Gothic 3 Classic",
+      "cat": "remaster",
+      "plats": [
+        "ps"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": true,
+      "date": "2026-11-24T00:00:00",
+      "desc": "This overhauled console version of the Cult Classic RPG integrates the community patch 1.7",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa7pa.jpg",
+      "store": {
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 6,
+      "hypes": 6,
+      "rating": null
+    },
+    {
+      "id": 347898,
+      "title": "Hope in the City",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-11-10T00:00:00",
+      "desc": "17-year-old Hope Song returns home from school to find her parents missing. Use Hope’s obs",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9y32.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 6,
+      "hypes": 6,
+      "rating": null
+    },
+    {
+      "id": 334698,
+      "title": "Lacey's Flash Games",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Adventure",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-10-27T00:00:00",
+      "desc": "These are the REAL girls’ games. In the mid 2000s, Charlie (Charchar887), discovers the La",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9ia8.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 6,
+      "hypes": 6,
+      "rating": null
+    },
+    {
+      "id": 292419,
+      "title": "Cat Secretary",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-11-04T00:00:00",
+      "desc": "Keep your job by day. At night, sneak around the office and solve your colleagues' problem",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coby6w.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 6,
+      "hypes": 6,
+      "rating": null
+    },
+    {
+      "id": 258341,
+      "title": "Neo Junk City",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Point-and-click",
+        "Role-playing (RPG)"
+      ],
+      "retro": false,
+      "date": "2026-11-09T00:00:00",
+      "desc": "Dive into Neo Junk City, a cyberpunk adventure where you’re an android detective unravelin",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8usa.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 6,
+      "hypes": 6,
+      "rating": null
+    },
+    {
+      "id": 247780,
+      "title": "Portabellows",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Platform",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-11-12T00:00:00",
+      "desc": "Explore a whimsical island to find… pie recipes?! Bake them by gathering or growing ingred",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9wwk.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 6,
+      "hypes": 6,
+      "rating": null
+    },
+    {
+      "id": 416105,
+      "title": "Hunter's Moon",
+      "cat": "new",
+      "plats": [
+        "ps"
+      ],
+      "tags": [
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-26T00:00:00",
+      "desc": "Hunter’s Moon is a first-person historical narrative folk-horror set over the course of on",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coctlj.jpg",
+      "store": {
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 5,
+      "hypes": 5,
+      "rating": null
+    },
+    {
+      "id": 405435,
+      "title": "One Piece: Grand Gourmet",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw"
+      ],
+      "tags": [
+        "Simulator"
+      ],
+      "retro": false,
+      "date": "2026-10-23T00:00:00",
+      "desc": "Hop aboard a delectable management sim in the world of ONE PIECE! Work alongside the Straw",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc7mu.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 5,
+      "hypes": 5,
+      "rating": null
+    },
+    {
+      "id": 405077,
+      "title": "Age of Empires IV: Raiders of the North",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "ps"
+      ],
+      "tags": [
+        "Strategy"
+      ],
+      "retro": false,
+      "date": "2026-10-29T00:00:00",
+      "desc": "A New Age Rises in Age of Empires IV. Raiders of the North introduces two full civilizatio",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc75d.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 5,
+      "hypes": 5,
+      "rating": null
+    },
+    {
+      "id": 404939,
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "cat": "remaster",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Fighting"
+      ],
+      "retro": true,
+      "date": "2026-11-03T00:00:00",
+      "desc": "The ultimate Godzilla arena brawler is back, completely remastered. Choose your monster an",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coctec.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 5,
+      "hypes": 5,
+      "rating": null
+    },
+    {
+      "id": 404714,
+      "title": "Sonic Pico Park",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Puzzle"
+      ],
+      "retro": false,
+      "date": "2026-11-12T00:00:00",
+      "desc": "The co-op action puzzle game series PICO PARK is back... and this time, we're teaming up w",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocowo.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 5,
+      "hypes": 5,
+      "rating": null
+    },
+    {
+      "id": 403821,
+      "title": "Chivalware",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw"
+      ],
+      "tags": [
+        "Adventure",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-11-05T00:00:00",
+      "desc": "Chivalware is a frantic tile-matching action roguelite. Challenge your reflexes and coordi",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc5eu.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 5,
+      "hypes": 5,
+      "rating": null
+    },
+    {
+      "id": 400112,
+      "title": "Wilderdark",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Adventure",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-11-03T00:00:00",
+      "desc": "Something dangerous is lurking in the wilderness. Wilderdark is a first-person survival ho",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc03a.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 5,
+      "hypes": 5,
+      "rating": null
+    },
+    {
+      "id": 391801,
+      "title": "Curse of Resthaven",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "ps"
+      ],
+      "tags": [
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-29T00:00:00",
+      "desc": "In this single-player narrative roguelite, govern a cursed island as you investigate your ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobli5.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 5,
+      "hypes": 5,
+      "rating": null
+    },
+    {
+      "id": 365273,
+      "title": "The Mailroom",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Puzzle",
+        "Simulator"
+      ],
+      "retro": false,
+      "date": "2026-10-26T00:00:00",
+      "desc": "A horror job simulator where you work in the mailroom of a small regional office of Hell l",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobqfv.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 5,
+      "hypes": 5,
+      "rating": null
+    },
+    {
+      "id": 416123,
+      "title": "Where the Seeds Fall",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "ps"
+      ],
+      "tags": [
+        "Platform",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-11-05T00:00:00",
+      "desc": "Blight has infected the land, forcing humanity to live upon the branches of the World Tree",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coctkd.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 4,
+      "hypes": 4,
+      "rating": null
+    },
+    {
+      "id": 411706,
+      "title": "Croc 2: Kingdom of the Gobbos",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Platform",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-29T00:00:00",
+      "desc": "Croc's back, and this time he's searching for his long-lost parents. Revived by the Dantin",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coclf8.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 4,
+      "hypes": 4,
+      "rating": null
+    },
+    {
+      "id": 403819,
+      "title": "Theos: Cities of Myth",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Strategy",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-11-04T00:00:00",
+      "desc": "A modern take on classic city-builders, Theos: Cities of Myth lets you develop a thriving ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc5el.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 4,
+      "hypes": 4,
+      "rating": null
+    },
+    {
+      "id": 402530,
+      "title": "Anomalith",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Shooter",
+        "Role-playing (RPG)"
+      ],
+      "retro": false,
+      "date": "2026-10-28T00:00:00",
+      "desc": "“ANOMALITH” is a survival third-person shooter set in Japan, steeped in the atmosphere of ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc3jf.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 4,
+      "hypes": 4,
+      "rating": null
+    },
+    {
+      "id": 360260,
+      "title": "Monomoon",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Platform",
+        "Puzzle"
+      ],
+      "retro": false,
+      "date": "2026-11-11T00:00:00",
+      "desc": "In MONOMOON, the way forward is reserved for the knowing and the daring. Guided by moonlig",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coax94.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 4,
+      "hypes": 4,
+      "rating": null
+    },
+    {
+      "id": 359885,
+      "title": "Ashes of the Singularity II",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Real Time Strategy (RTS)",
+        "Simulator"
+      ],
+      "retro": false,
+      "date": "2026-11-10T00:00:00",
+      "desc": "In this massive RTS game, command vast armies fighting for control of entire worlds. Contr",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coae4m.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 4,
+      "hypes": 4,
+      "rating": null
+    },
+    {
+      "id": 346933,
+      "title": "Aspis",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Adventure",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-10-23T00:00:00",
+      "desc": "ASPIS is an atmospheric mystical thriller set in an alternative USSR of the late 80s. You ",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9wr6.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 4,
+      "hypes": 4,
+      "rating": null
+    },
+    {
+      "id": 332314,
+      "title": "Baptiste",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Adventure",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-10-31T00:00:00",
+      "desc": "Submerge yourself in a first-hand experience that will make you feel each chill as if it w",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9fi5.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 4,
+      "hypes": 4,
+      "rating": null
+    },
+    {
+      "id": 321579,
+      "title": "Danchi Days",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Adventure",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-10-29T00:00:00",
+      "desc": "Help Hoshino bring her hometown back together in a comedic-yet-bittersweet story set in 20",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cockrk.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 4,
+      "hypes": 4,
+      "rating": null
+    },
+    {
+      "id": 123765,
+      "title": "Airport Contraband",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Simulator",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-10-28T00:00:00",
+      "desc": "Take over the duties of a customs officer in this roguelike-simulation game where every su",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobwf0.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 4,
+      "hypes": 4,
+      "rating": null
+    },
+    {
+      "id": 416102,
+      "title": "Crimson Desert: Charting the Unknown",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "ps"
+      ],
+      "tags": [
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-29T00:00:00",
+      "desc": "Reclaim power and reach beyond-into the unknown.The story of Pywel continues in Crimson De",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coctot.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 3,
+      "hypes": 3,
+      "rating": null
+    },
+    {
+      "id": 416083,
+      "title": "Dino Crisis 2",
+      "cat": "new",
+      "plats": [
+        "ps"
+      ],
+      "tags": [
+        "Shooter",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-20T00:00:00",
+      "desc": "A port of Dino Crisis 2 originally released on the PlayStation, enhanced with up-rendering",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocthm.jpg",
+      "store": {
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 3,
+      "hypes": 3,
+      "rating": null
+    },
+    {
+      "id": 415120,
+      "title": "Dumpster Gang",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Simulator",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-12-01T00:00:00",
+      "desc": "Play as a gang of mischievous raccoons in this chaotic co-op sandbox for 1-4 players. Comp",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocrop.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 3,
+      "hypes": 3,
+      "rating": null
+    },
+    {
+      "id": 414126,
+      "title": "You Are Empty: Absolute Edition",
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Shooter"
+      ],
+      "retro": false,
+      "date": "2026-10-27T00:00:00",
+      "desc": "Just in time for the 20th anniversary, You Are Empty has been revitalized for modern syste",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocswn.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 3,
+      "hypes": 3,
+      "rating": null
+    },
+    {
+      "id": 412520,
+      "title": "Warrior Cats: Clans of the Forest",
+      "cat": "new",
+      "plats": [
+        "pc",
+        "sw",
+        "ps"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-10-23T00:00:00",
+      "desc": "Create your own Warrior Cat and journey through the Lake Territories in an immersive actio",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocmt9.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com",
+        "sw": "https://www.nintendo.com"
+      },
+      "popularity": 3,
+      "hypes": 3,
       "rating": null
     }
   ],
