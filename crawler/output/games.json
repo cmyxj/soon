@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:07:54.084379",
+  "generated_at": "2026-10-18T15:39:31.623161",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -35,8 +35,8 @@
       "title_en": "Phantom Blade Zero",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -60,8 +60,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -85,8 +85,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -159,8 +159,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -185,8 +185,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -231,8 +231,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -257,8 +257,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter"
@@ -272,8 +272,8 @@
         "ps": "https://store.playstation.com",
         "sw2": "https://www.nintendo.com"
       },
-      "popularity": 52,
-      "hypes": 52,
+      "popularity": 53,
+      "hypes": 53,
       "rating": null
     },
     {
@@ -283,8 +283,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -331,8 +331,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -356,8 +356,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -383,8 +383,8 @@
       "plats": [
         "sw",
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Puzzle",
@@ -411,8 +411,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -459,8 +459,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -485,8 +485,8 @@
       "plats": [
         "sw",
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
