@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T04:04:38.150141",
+  "generated_at": "2026-10-19T18:34:53.515097",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -35,8 +35,8 @@
       "title_en": "Phantom Blade Zero",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -60,8 +60,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Fighting",
@@ -85,8 +85,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -132,9 +132,9 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "sw2",
         "sw",
-        "pc"
+        "pc",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -159,8 +159,8 @@
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -184,9 +184,9 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
-        "sw2",
+        "ps",
         "pc",
-        "ps"
+        "sw2"
       ],
       "tags": [
         "Platform",
@@ -231,8 +231,8 @@
       "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Fighting",
@@ -256,9 +256,9 @@
       "title_en": "Call of Duty: Modern Warfare 4",
       "cat": "new",
       "plats": [
-        "sw2",
+        "ps",
         "pc",
-        "ps"
+        "sw2"
       ],
       "tags": [
         "Shooter"
@@ -272,8 +272,8 @@
         "ps": "https://store.playstation.com/en-us/concept/10001130",
         "sw2": "https://www.nintendo.com/us/store/products/call-of-duty-switch-2/"
       },
-      "popularity": 53,
-      "hypes": 53,
+      "popularity": 55,
+      "hypes": 55,
       "rating": null
     },
     {
@@ -282,9 +282,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
-        "sw2",
+        "ps",
         "pc",
-        "ps"
+        "sw2"
       ],
       "tags": [
         "Adventure"
@@ -331,8 +331,8 @@
       "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -356,8 +356,8 @@
       "title_en": "Infinitesimals",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -381,10 +381,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "sw2",
         "sw",
+        "ps",
         "pc",
-        "ps"
+        "sw2"
       ],
       "tags": [
         "Puzzle",
@@ -410,9 +410,9 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
-        "sw2",
+        "ps",
         "pc",
-        "ps"
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -459,8 +459,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -478,32 +478,28 @@
       "rating": null
     },
     {
-      "id": 405454,
-      "title": "最终幻想：共鸣",
-      "title_en": "Final Fantasy Resonance",
+      "id": 317622,
+      "title": "ArcheAge Chronicles",
+      "title_en": null,
       "cat": "new",
       "plats": [
-        "sw2",
-        "sw",
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
         "Adventure"
       ],
       "retro": false,
-      "date": "2026-10-22T00:00:00",
-      "desc": "Return to the pixelart world of FINAL FANTASY, evolved from its classic roots. Travel with",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc7q4.jpg",
+      "date": "2026-12-31T00:00:00",
+      "desc": "Explore Auroria, a vast and vibrant world brimming with rich lore and thrilling action. Ar",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8xgc.jpg",
       "store": {
-        "pc": "https://store.steampowered.com/app/3259780",
-        "ps": "https://store.playstation.com/en-us/product/JP0082-PPSA31544_00-FFRSSTDWW0000000",
-        "sw": "https://www.nintendo.com/us/store/products/final-fantasy-resonance-switch/",
-        "sw2": "https://www.nintendo.com/us/store/products/final-fantasy-resonance-switch/"
+        "pc": "https://store.steampowered.com/app/3218230",
+        "ps": "https://store.playstation.com"
       },
-      "popularity": 31,
-      "hypes": 31,
+      "popularity": 32,
+      "hypes": 32,
       "rating": null
     }
   ]
