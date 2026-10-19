@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T02:03:47.891714",
+  "generated_at": "2026-10-19T04:04:38.150141",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -132,9 +132,9 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "pc",
+        "sw2",
         "sw",
-        "sw2"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -184,9 +184,9 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
+        "sw2",
         "pc",
-        "ps",
-        "sw2"
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -256,9 +256,9 @@
       "title_en": "Call of Duty: Modern Warfare 4",
       "cat": "new",
       "plats": [
+        "sw2",
         "pc",
-        "ps",
-        "sw2"
+        "ps"
       ],
       "tags": [
         "Shooter"
@@ -282,9 +282,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
+        "sw2",
         "pc",
-        "ps",
-        "sw2"
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -381,10 +381,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps",
+        "sw2",
         "sw",
-        "sw2"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Puzzle",
@@ -410,9 +410,9 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
+        "sw2",
         "pc",
-        "ps",
-        "sw2"
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -483,10 +483,10 @@
       "title_en": "Final Fantasy Resonance",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps",
+        "sw2",
         "sw",
-        "sw2"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
