@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:39:31.623161",
+  "generated_at": "2026-10-19T02:03:47.891714",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -23,7 +23,7 @@
       "desc": "Grand Theft Auto VI heads to the state of Leonida, home to the neon-soaked streets of Vice",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocv1v.jpg",
       "store": {
-        "ps": "https://store.playstation.com"
+        "ps": "https://store.playstation.com/en-us/concept/10000730"
       },
       "popularity": 1102,
       "hypes": 1102,
@@ -47,8 +47,8 @@
       "desc": "Framed for the death of his master and left with a ruined heart, Soul has sixty-six days t",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cococe.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com"
+        "pc": "https://store.steampowered.com/app/4115450",
+        "ps": "https://store.playstation.com/en-us/concept/10017620"
       },
       "popularity": 220,
       "hypes": 220,
@@ -56,8 +56,8 @@
     },
     {
       "id": 325599,
-      "title": "Stranger Than Heaven",
-      "title_en": null,
+      "title": "天堂异客",
+      "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
         "pc",
@@ -72,17 +72,17 @@
       "desc": "Stranger Than Heaven is an upcoming action-adventure game developed by Ryu Ga Gotoku Studi",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobu6l.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com"
+        "pc": "https://store.steampowered.com/app/4260840",
+        "ps": "https://store.playstation.com/en-us/concept/10017939"
       },
-      "popularity": 114,
-      "hypes": 114,
+      "popularity": 116,
+      "hypes": 116,
       "rating": null
     },
     {
       "id": 262712,
-      "title": "Ananta",
-      "title_en": null,
+      "title": "安塔",
+      "title_en": "Ananta",
       "cat": "new",
       "plats": [
         "pc",
@@ -97,8 +97,8 @@
       "desc": "Take on the role of an elite Agent within the A.C.D. (Anti-Chaos Directorate) embarking on",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocrlo.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com"
+        "pc": "https://store.steampowered.com/app/4814120",
+        "ps": "https://store.playstation.com/en-us/concept/10009022"
       },
       "popularity": 94,
       "hypes": 94,
@@ -120,7 +120,7 @@
       "desc": "The evil Ganondorf is scheming to steal the mythical Triforce from the Sacred Realm and ta",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocv5r.jpg",
       "store": {
-        "sw2": "https://www.nintendo.com"
+        "sw2": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/"
       },
       "popularity": 76,
       "hypes": 76,
@@ -128,13 +128,13 @@
     },
     {
       "id": 67195,
-      "title": "Witchbrook",
-      "title_en": null,
+      "title": "女巫学院",
+      "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
+        "pc",
         "sw",
-        "sw2",
-        "pc"
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -145,7 +145,7 @@
       "desc": "Experience the thrills and pitfalls of school-life in Witchbrook! Discover a spellbinding ",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocce4.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
+        "pc": "https://store.steampowered.com/app/1846700",
         "sw": "https://www.nintendo.com",
         "sw2": "https://www.nintendo.com"
       },
@@ -155,8 +155,8 @@
     },
     {
       "id": 348199,
-      "title": "Mudang: Two Hearts",
-      "title_en": null,
+      "title": "巫女：双心",
+      "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
         "pc",
@@ -171,7 +171,7 @@
       "desc": "MUDANG: Two Hearts is a narrative-driven, third-person action adventure that blends tactic",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9xzl.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
+        "pc": "https://store.steampowered.com/app/2889030/MUDANG_Two_Hearts/",
         "ps": "https://store.playstation.com"
       },
       "popularity": 61,
@@ -180,13 +180,13 @@
     },
     {
       "id": 404044,
-      "title": "Rayman Legends Retold",
-      "title_en": null,
+      "title": "雷曼：传奇 重制版",
+      "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
-        "sw2",
         "pc",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Platform",
@@ -197,18 +197,18 @@
       "desc": "Embark on a bold reimagining of the beloved platformer, with new visuals and a retold stor",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc5tb.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com",
-        "sw2": "https://www.nintendo.com"
+        "pc": "https://store.steampowered.com/app/4084710",
+        "ps": "https://store.playstation.com/en-us/concept/10017364/",
+        "sw2": "https://www.nintendo.com/us/store/products/rayman-legends-retold-switch-2/"
       },
-      "popularity": 59,
-      "hypes": 59,
+      "popularity": 60,
+      "hypes": 60,
       "rating": null
     },
     {
       "id": 338104,
-      "title": "The Duskbloods",
-      "title_en": null,
+      "title": "黄昏血族",
+      "title_en": "The Duskbloods",
       "cat": "new",
       "plats": [
         "sw2"
@@ -219,7 +219,7 @@
       "desc": "An online multiplayer PvPvE game where players vie for supremacy among themselves and agai",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocqn8.jpg",
       "store": {
-        "sw2": "https://www.nintendo.com"
+        "sw2": "https://www.nintendo.com/us/store/products/the-duskbloods-switch-2/"
       },
       "popularity": 59,
       "hypes": 59,
@@ -227,8 +227,8 @@
     },
     {
       "id": 305550,
-      "title": "Acts of Blood",
-      "title_en": null,
+      "title": "血之行动",
+      "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
         "pc",
@@ -243,7 +243,7 @@
       "desc": "Acts of Blood is a Beat ‘em up, Action, 3rd person game which focuses on fast-paced, bruta",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc6oq.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
+        "pc": "https://store.steampowered.com/app/3031890/Acts_of_Blood/",
         "ps": "https://store.playstation.com"
       },
       "popularity": 58,
@@ -256,9 +256,9 @@
       "title_en": "Call of Duty: Modern Warfare 4",
       "cat": "new",
       "plats": [
-        "sw2",
         "pc",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Shooter"
@@ -268,9 +268,9 @@
       "desc": "Call of Duty: Modern Warfare 4 is a first-person shooter and the follow-up to Modern Warfa",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc4mu.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com",
-        "sw2": "https://www.nintendo.com"
+        "pc": "https://store.steampowered.com/app/4435490/Call_of_Duty_Modern_Warfare_4/",
+        "ps": "https://store.playstation.com/en-us/concept/10001130",
+        "sw2": "https://www.nintendo.com/us/store/products/call-of-duty-switch-2/"
       },
       "popularity": 53,
       "hypes": 53,
@@ -282,9 +282,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
-        "sw2",
         "pc",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Adventure"
@@ -294,9 +294,9 @@
       "desc": "See the world through the eyes of a brave little mouse in this enchanting 3D co-op adventu",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cod34q.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com",
-        "sw2": "https://www.nintendo.com"
+        "pc": "https://store.steampowered.com/app/3161310/Hela/",
+        "ps": "https://store.playstation.com/en-us/concept/10012485/",
+        "sw2": "https://www.nintendo.com/us/store/products/hela-of-mice-and-magic-switch-2/"
       },
       "popularity": 48,
       "hypes": 48,
@@ -304,8 +304,8 @@
     },
     {
       "id": 372154,
-      "title": "Bellum",
-      "title_en": null,
+      "title": "战争时刻",
+      "title_en": "Bellum",
       "cat": "new",
       "plats": [
         "pc"
@@ -327,8 +327,8 @@
     },
     {
       "id": 186613,
-      "title": "Showa American Story",
-      "title_en": null,
+      "title": "昭和美国物语",
+      "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
         "pc",
@@ -343,7 +343,7 @@
       "desc": "Showa American Story is a brand new RPG and an enthusiastic love letter to the 80s' pop cu",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4bv1.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
+        "pc": "https://store.steampowered.com/app/1687540/Showa_American_Story",
         "ps": "https://store.playstation.com"
       },
       "popularity": 42,
@@ -352,8 +352,8 @@
     },
     {
       "id": 26200,
-      "title": "Infinitesimals",
-      "title_en": null,
+      "title": "无穷小物",
+      "title_en": "Infinitesimals",
       "cat": "new",
       "plats": [
         "pc",
@@ -377,14 +377,14 @@
     },
     {
       "id": 236665,
-      "title": "Professor Layton and the New World of Steam",
-      "title_en": null,
+      "title": "雷顿教授与蒸汽新世界",
+      "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "sw",
-        "sw2",
         "pc",
-        "ps"
+        "ps",
+        "sw",
+        "sw2"
       ],
       "tags": [
         "Puzzle",
@@ -406,13 +406,13 @@
     },
     {
       "id": 378225,
-      "title": "Armatus",
-      "title_en": null,
+      "title": "武装者",
+      "title_en": "Armatus",
       "cat": "new",
       "plats": [
-        "sw2",
         "pc",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -423,8 +423,8 @@
       "desc": "ARMATUS is a third-person roguelite shooter set in the demon-infested ruins of Paris. As t",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coave0.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com",
+        "pc": "https://store.steampowered.com/app/3660710",
+        "ps": "https://store.playstation.com/en-us/concept/10017555",
         "sw2": "https://www.nintendo.com"
       },
       "popularity": 35,
@@ -433,8 +433,8 @@
     },
     {
       "id": 361859,
-      "title": "Warhammer 40,000: Dawn of War IV",
-      "title_en": null,
+      "title": "战锤40K：战争黎明 IV",
+      "title_en": "Warhammer 40,000: Dawn of War IV",
       "cat": "new",
       "plats": [
         "pc"
@@ -447,7 +447,7 @@
       "desc": "Return to the RTS series’ roots with deeply satisfying strategy gameplay. Take command of ",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaaxx.jpg",
       "store": {
-        "pc": "https://store.steampowered.com"
+        "pc": "https://store.steampowered.com/app/2272360"
       },
       "popularity": 34,
       "hypes": 34,
@@ -455,8 +455,8 @@
     },
     {
       "id": 381208,
-      "title": "TankRat",
-      "title_en": null,
+      "title": "坦克鼠",
+      "title_en": "TankRat",
       "cat": "new",
       "plats": [
         "pc",
@@ -470,8 +470,8 @@
       "desc": "A dying world, flesh given way to steel. Swarms of corrupted mech-monsters roam a desolate",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob0ej.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com"
+        "pc": "https://store.steampowered.com/app/1637460",
+        "ps": "https://store.playstation.com/en-gb/concept/10005291"
       },
       "popularity": 32,
       "hypes": 32,
@@ -483,10 +483,10 @@
       "title_en": "Final Fantasy Resonance",
       "cat": "new",
       "plats": [
-        "sw",
-        "sw2",
         "pc",
-        "ps"
+        "ps",
+        "sw",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -497,10 +497,10 @@
       "desc": "Return to the pixelart world of FINAL FANTASY, evolved from its classic roots. Travel with",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc7q4.jpg",
       "store": {
-        "pc": "https://store.steampowered.com",
-        "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com",
-        "sw2": "https://www.nintendo.com"
+        "pc": "https://store.steampowered.com/app/3259780",
+        "ps": "https://store.playstation.com/en-us/product/JP0082-PPSA31544_00-FFRSSTDWW0000000",
+        "sw": "https://www.nintendo.com/us/store/products/final-fantasy-resonance-switch/",
+        "sw2": "https://www.nintendo.com/us/store/products/final-fantasy-resonance-switch/"
       },
       "popularity": 31,
       "hypes": 31,
