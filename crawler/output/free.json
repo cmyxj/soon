@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:33:47.472608",
+  "generated_at": "2026-10-19T02:06:03.278209",
   "free": [
     {
       "title": "Bad Cheese",
@@ -20,33 +20,6 @@
       "url": "https://store.epicgames.com/zh-CN/p/agent-a-a-puzzle-in-disguise",
       "note": "Epic 每周免费",
       "cover": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png"
-    },
-    {
-      "title": "横版冒险精选集",
-      "platform": "Epic",
-      "st": "avail",
-      "start": "2026-10-10T00:00:00+08:00",
-      "end": "2026-10-19T23:59:00+08:00",
-      "url": "https://store.epicgames.com",
-      "note": "永久保留 · 限时7天"
-    },
-    {
-      "title": "复古飞行模拟",
-      "platform": "Steam",
-      "st": "avail",
-      "start": "2026-10-14T00:00:00+08:00",
-      "end": "2026-10-18T23:59:00+08:00",
-      "url": "https://store.steampowered.com",
-      "note": "永久保留 · 限时5天"
-    },
-    {
-      "title": "独立RPG合集",
-      "platform": "Epic",
-      "st": "soon",
-      "start": "2026-10-18T00:00:00+08:00",
-      "end": "2026-10-25T23:59:00+08:00",
-      "url": "https://store.epicgames.com",
-      "note": "限时领取 · 敬请期待"
     }
   ]
 }
