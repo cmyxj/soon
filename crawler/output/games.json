@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:34:53.515097",
+  "generated_at": "2026-10-20T04:17:39.206865",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -132,9 +132,9 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "sw",
+        "sw2",
         "pc",
-        "sw2"
+        "sw"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -185,8 +185,8 @@
       "cat": "new",
       "plats": [
         "ps",
-        "pc",
-        "sw2"
+        "sw2",
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -257,8 +257,8 @@
       "cat": "new",
       "plats": [
         "ps",
-        "pc",
-        "sw2"
+        "sw2",
+        "pc"
       ],
       "tags": [
         "Shooter"
@@ -283,8 +283,8 @@
       "cat": "new",
       "plats": [
         "ps",
-        "pc",
-        "sw2"
+        "sw2",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -381,10 +381,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "sw",
         "ps",
+        "sw2",
         "pc",
-        "sw2"
+        "sw"
       ],
       "tags": [
         "Puzzle",
@@ -411,8 +411,8 @@
       "cat": "new",
       "plats": [
         "ps",
-        "pc",
-        "sw2"
+        "sw2",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
