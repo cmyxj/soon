@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:17:39.206865",
+  "generated_at": "2026-10-20T16:38:07.898692",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -25,8 +25,8 @@
       "store": {
         "ps": "https://store.playstation.com/en-us/concept/10000730"
       },
-      "popularity": 1102,
-      "hypes": 1102,
+      "popularity": 1109,
+      "hypes": 1109,
       "rating": null
     },
     {
@@ -133,8 +133,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "pc",
-        "sw"
+        "sw",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -184,8 +184,8 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
-        "ps",
         "sw2",
+        "ps",
         "pc"
       ],
       "tags": [
@@ -256,8 +256,8 @@
       "title_en": "Call of Duty: Modern Warfare 4",
       "cat": "new",
       "plats": [
-        "ps",
         "sw2",
+        "ps",
         "pc"
       ],
       "tags": [
@@ -272,8 +272,8 @@
         "ps": "https://store.playstation.com/en-us/concept/10001130",
         "sw2": "https://www.nintendo.com/us/store/products/call-of-duty-switch-2/"
       },
-      "popularity": 55,
-      "hypes": 55,
+      "popularity": 56,
+      "hypes": 56,
       "rating": null
     },
     {
@@ -282,8 +282,8 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
-        "ps",
         "sw2",
+        "ps",
         "pc"
       ],
       "tags": [
@@ -381,10 +381,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "ps",
         "sw2",
-        "pc",
-        "sw"
+        "ps",
+        "sw",
+        "pc"
       ],
       "tags": [
         "Puzzle",
@@ -410,8 +410,8 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
-        "ps",
         "sw2",
+        "ps",
         "pc"
       ],
       "tags": [
