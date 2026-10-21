@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:06:05.137368",
+  "generated_at": "2026-10-21T16:56:41.357180",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -133,8 +133,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw",
-        "sw2"
+        "sw2",
+        "sw"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -382,9 +382,9 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw",
         "sw2",
-        "ps"
+        "ps",
+        "sw"
       ],
       "tags": [
         "Puzzle",
