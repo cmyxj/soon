@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-10-22T06:08:08.076363",
+  "generated_at": "2026-10-22T17:59:38.115014",
   "free": [
     {
-      "title": "Bad Cheese",
+      "title": "Sker Ritual",
       "platform": "epic",
       "st": "avail",
-      "start": "2026-10-15T15:00:00",
-      "end": "2026-10-22T15:00:00",
-      "url": "https://store.epicgames.com/zh-CN/p/ae5d8fc5541f42eea105f64121dba382",
+      "start": "2026-10-22T15:00:00",
+      "end": "2026-10-29T15:00:00",
+      "url": "https://store.epicgames.com/zh-CN/p/8dbc8d70481d4c0b8412d3aec76a35a1",
       "note": "Epic 每周免费",
-      "cover": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-kcgyv.png"
+      "cover": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1cyza.png"
     },
     {
-      "title": "Agent A - 伪装游戏",
+      "title": "Home - A Unique Horror Adventure",
       "platform": "epic",
       "st": "avail",
-      "start": "2026-10-15T15:00:00",
-      "end": "2026-10-22T15:00:00",
-      "url": "https://store.epicgames.com/zh-CN/p/agent-a-a-puzzle-in-disguise",
+      "start": "2026-10-22T15:00:00",
+      "end": "2026-10-29T15:00:00",
+      "url": "https://store.epicgames.com/zh-CN/p/ff70f2b02fd842f8961f7729af25cda9",
       "note": "Epic 每周免费",
-      "cover": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png"
+      "cover": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-14ws1.png"
     }
   ]
 }
