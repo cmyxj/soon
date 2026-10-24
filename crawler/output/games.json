@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:48:07.360212",
+  "generated_at": "2026-10-24T04:02:39.768592",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -100,8 +100,8 @@
         "pc": "https://store.steampowered.com/app/4814120",
         "ps": "https://store.playstation.com/en-us/concept/10009022"
       },
-      "popularity": 94,
-      "hypes": 94,
+      "popularity": 95,
+      "hypes": 95,
       "rating": null
     },
     {
@@ -483,8 +483,8 @@
       "cat": "remaster",
       "plats": [
         "pc",
-        "sw",
-        "ps"
+        "ps",
+        "sw"
       ],
       "tags": [
         "Point-and-click",
