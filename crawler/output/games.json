@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T04:03:52.779401",
+  "generated_at": "2026-10-25T15:51:33.206596",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -75,8 +75,8 @@
         "pc": "https://store.steampowered.com/app/4260840",
         "ps": "https://store.playstation.com/en-us/concept/10017939"
       },
-      "popularity": 116,
-      "hypes": 116,
+      "popularity": 117,
+      "hypes": 117,
       "rating": null
     },
     {
@@ -132,9 +132,9 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
+        "sw",
         "sw2",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -185,8 +185,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -257,8 +257,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -355,10 +355,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
+        "sw",
         "sw2",
-        "pc",
         "ps",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Puzzle",
@@ -385,8 +385,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -482,9 +482,9 @@
       "title_en": "The Wolf Among Us Remastered",
       "cat": "remaster",
       "plats": [
+        "sw",
         "ps",
-        "pc",
-        "sw"
+        "pc"
       ],
       "tags": [
         "Point-and-click",
