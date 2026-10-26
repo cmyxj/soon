@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:07:58.552696",
+  "generated_at": "2026-10-26T05:17:04.655977",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -20,7 +20,7 @@
       ],
       "retro": false,
       "date": "2026-11-19T00:00:00",
-      "desc": "Grand Theft Auto VI heads to the state of Leonida, home to the neon-soaked streets of Vice",
+      "desc": "来到雷奥尼达州——霓虹闪烁的罪恶都市，享受GTA系列前所未有的自由与疯狂。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocv1v.jpg",
       "store": {
         "ps": "https://store.playstation.com/en-us/concept/10000730"
@@ -44,7 +44,7 @@
       ],
       "retro": false,
       "date": "2026-10-29T00:00:00",
-      "desc": "Framed for the death of his master and left with a ruined heart, Soul has sixty-six days t",
+      "desc": "被诬陷为弑师凶手、身负重伤的剑客Soul，在六十六天内展开复仇之旅。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cococe.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/4115450",
@@ -69,7 +69,7 @@
       ],
       "retro": false,
       "date": "2027-01-15T00:00:00",
-      "desc": "Stranger Than Heaven is an upcoming action-adventure game developed by Ryu Ga Gotoku Studi",
+      "desc": "一款即将推出的动作冒险游戏，由知名工作室打造。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobu6l.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/4260840",
@@ -94,7 +94,7 @@
       ],
       "retro": false,
       "date": "2027-01-15T00:00:00",
-      "desc": "Take on the role of an elite Agent within the A.C.D. (Anti-Chaos Directorate) embarking on",
+      "desc": "扮演反混沌指挥部(A.C.D.)的精英干员，在近未来都市中执行任务。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocrlo.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/4814120",
@@ -117,7 +117,7 @@
       ],
       "retro": false,
       "date": "2026-11-05T00:00:00",
-      "desc": "The evil Ganondorf is scheming to steal the mythical Triforce from the Sacred Realm and ta",
+      "desc": "邪恶的Ganondorf图谋窃取神话中的三角力量，林克再次踏上冒险之旅。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocv5r.jpg",
       "store": {
         "sw2": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/"
@@ -133,8 +133,8 @@
       "cat": "new",
       "plats": [
         "sw",
-        "sw2",
-        "pc"
+        "pc",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -142,7 +142,7 @@
       ],
       "retro": false,
       "date": "2026-12-31T00:00:00",
-      "desc": "Experience the thrills and pitfalls of school-life in Witchbrook! Discover a spellbinding ",
+      "desc": "体验魔法校园生活的乐趣与挑战，结识同学、学习法术。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocce4.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/1846700",
@@ -168,7 +168,7 @@
       ],
       "retro": false,
       "date": "2026-12-31T00:00:00",
-      "desc": "MUDANG: Two Hearts is a narrative-driven, third-person action adventure that blends tactic",
+      "desc": "叙事驱动的第三人称动作游戏，讲述巫女与双心的故事。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9xzl.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/2889030/MUDANG_Two_Hearts/",
@@ -185,8 +185,8 @@
       "cat": "new",
       "plats": [
         "ps",
-        "sw2",
-        "pc"
+        "pc",
+        "sw2"
       ],
       "tags": [
         "Platform",
@@ -194,7 +194,7 @@
       ],
       "retro": false,
       "date": "2026-12-03T00:00:00",
-      "desc": "Embark on a bold reimagining of the beloved platformer, with new visuals and a retold stor",
+      "desc": "经典平台游戏大胆重制，全新画面、关卡与操作体验。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc5tb.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/4084710",
@@ -216,7 +216,7 @@
       "tags": [],
       "retro": false,
       "date": "2026-12-31T00:00:00",
-      "desc": "An online multiplayer PvPvE game where players vie for supremacy among themselves and agai",
+      "desc": "在线多人PvPvE游戏，玩家在残酷的世界中争夺霸权。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocqn8.jpg",
       "store": {
         "sw2": "https://www.nintendo.com/us/store/products/the-duskbloods-switch-2/"
@@ -240,7 +240,7 @@
       ],
       "retro": false,
       "date": "2026-12-04T00:00:00",
-      "desc": "Acts of Blood is a Beat ‘em up, Action, 3rd person game which focuses on fast-paced, bruta",
+      "desc": "一款横版动作清版游戏，快节奏战斗，爽快连招。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc6oq.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/3031890/Acts_of_Blood/",
@@ -257,15 +257,15 @@
       "cat": "new",
       "plats": [
         "ps",
-        "sw2",
-        "pc"
+        "pc",
+        "sw2"
       ],
       "tags": [
         "Adventure"
       ],
       "retro": false,
       "date": "2026-12-01T00:00:00",
-      "desc": "See the world through the eyes of a brave little mouse in this enchanting 3D co-op adventu",
+      "desc": "通过勇敢小老鼠的眼睛看世界，一场充满魔法与冒险的旅程。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cod34q.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/3161310/Hela/",
@@ -290,7 +290,7 @@
       ],
       "retro": false,
       "date": "2026-12-31T00:00:00",
-      "desc": "Bellum is the next evolution of platoon-scale tactical shooters, built in Unreal Engine 5 ",
+      "desc": "排级战术射击游戏的进化，真实战场体验。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coan5y.jpg",
       "store": {
         "pc": "https://store.steampowered.com"
@@ -314,7 +314,7 @@
       ],
       "retro": false,
       "date": "2026-12-31T00:00:00",
-      "desc": "Showa American Story is a brand new RPG and an enthusiastic love letter to the 80s' pop cu",
+      "desc": "全新RPG，昭和年代背景，充满美式文化元素。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4bv1.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/1687540/Showa_American_Story",
@@ -339,7 +339,7 @@
       ],
       "retro": false,
       "date": "2026-12-31T00:00:00",
-      "desc": "Infinitesimals is a story-driven, 3rd person action adventure where you play as tiny alien",
+      "desc": "叙事驱动的第三人称动作冒险游戏，探索微观世界。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9xhr.jpg",
       "store": {
         "pc": "https://store.steampowered.com",
@@ -356,9 +356,9 @@
       "cat": "new",
       "plats": [
         "ps",
-        "sw2",
+        "sw",
         "pc",
-        "sw"
+        "sw2"
       ],
       "tags": [
         "Puzzle",
@@ -366,7 +366,7 @@
       ],
       "retro": false,
       "date": "2026-12-10T00:00:00",
-      "desc": "Professor Layton and the New World of Steam depicts the world one year after the events of",
+      "desc": "雷顿教授归来，在蒸汽朋克世界中解开全新谜题。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co66va.jpg",
       "store": {
         "pc": "https://store.steampowered.com",
@@ -385,8 +385,8 @@
       "cat": "new",
       "plats": [
         "ps",
-        "sw2",
-        "pc"
+        "pc",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -394,7 +394,7 @@
       ],
       "retro": false,
       "date": "2027-01-07T00:00:00",
-      "desc": "ARMATUS is a third-person roguelite shooter set in the demon-infested ruins of Paris. As t",
+      "desc": "第三人称Roguelite射击游戏，在恶魔世界中战斗。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coave0.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/3660710",
@@ -418,7 +418,7 @@
       ],
       "retro": false,
       "date": "2026-12-03T00:00:00",
-      "desc": "Return to the RTS series’ roots with deeply satisfying strategy gameplay. Take command of ",
+      "desc": "回归RTS系列根源，深度策略战斗，战锤40K宇宙全新篇章。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaaxx.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/2272360"
@@ -442,7 +442,7 @@
       ],
       "retro": false,
       "date": "2026-12-31T00:00:00",
-      "desc": "Explore Auroria, a vast and vibrant world brimming with rich lore and thrilling action. Ar",
+      "desc": "探索Auroria广阔世界，丰富的冒险与任务等待你。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8xgc.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/3218230",
@@ -466,7 +466,7 @@
       ],
       "retro": false,
       "date": "2027-01-15T00:00:00",
-      "desc": "A dying world, flesh given way to steel. Swarms of corrupted mech-monsters roam a desolate",
+      "desc": "垂死的世界，血肉被钢铁取代，腐败的虫群席卷一切。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob0ej.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/1637460",
@@ -492,7 +492,7 @@
       ],
       "retro": true,
       "date": "2026-10-29T00:00:00",
-      "desc": "A dark detective thriller where folklore is real, violence is chilling, and every choice h",
+      "desc": "黑暗侦探惊悚游戏，民间传说成真，暴力横行。",
       "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc6r3.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/3884860",
