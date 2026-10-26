@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:51:33.206596",
+  "generated_at": "2026-10-26T04:07:58.552696",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -50,8 +50,8 @@
         "pc": "https://store.steampowered.com/app/4115450",
         "ps": "https://store.playstation.com/en-us/concept/10017620"
       },
-      "popularity": 222,
-      "hypes": 222,
+      "popularity": 223,
+      "hypes": 223,
       "rating": null
     },
     {
@@ -75,8 +75,8 @@
         "pc": "https://store.steampowered.com/app/4260840",
         "ps": "https://store.playstation.com/en-us/concept/10017939"
       },
-      "popularity": 117,
-      "hypes": 117,
+      "popularity": 118,
+      "hypes": 118,
       "rating": null
     },
     {
@@ -184,8 +184,8 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
-        "sw2",
         "ps",
+        "sw2",
         "pc"
       ],
       "tags": [
@@ -256,8 +256,8 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
-        "sw2",
         "ps",
+        "sw2",
         "pc"
       ],
       "tags": [
@@ -355,10 +355,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "sw",
-        "sw2",
         "ps",
-        "pc"
+        "sw2",
+        "pc",
+        "sw"
       ],
       "tags": [
         "Puzzle",
@@ -384,8 +384,8 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
-        "sw2",
         "ps",
+        "sw2",
         "pc"
       ],
       "tags": [
@@ -482,9 +482,9 @@
       "title_en": "The Wolf Among Us Remastered",
       "cat": "remaster",
       "plats": [
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Point-and-click",
