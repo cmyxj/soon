@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:27:36.443567",
+  "generated_at": "2026-10-27T17:47:08.444503",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -356,8 +356,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "pc",
         "sw",
+        "pc",
         "ps"
       ],
       "tags": [
@@ -482,8 +482,8 @@
       "title_en": "The Wolf Among Us Remastered",
       "cat": "remaster",
       "plats": [
-        "pc",
         "sw",
+        "pc",
         "ps"
       ],
       "tags": [
