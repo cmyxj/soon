@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:31:51.428111",
+  "generated_at": "2026-10-27T04:27:36.443567",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -132,9 +132,9 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "sw",
+        "sw2",
         "pc",
-        "sw2"
+        "sw"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -184,8 +184,8 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
-        "pc",
         "sw2",
+        "pc",
         "ps"
       ],
       "tags": [
@@ -256,8 +256,8 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
-        "pc",
         "sw2",
+        "pc",
         "ps"
       ],
       "tags": [
@@ -355,9 +355,9 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "sw",
-        "pc",
         "sw2",
+        "pc",
+        "sw",
         "ps"
       ],
       "tags": [
@@ -384,8 +384,8 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
-        "pc",
         "sw2",
+        "pc",
         "ps"
       ],
       "tags": [
@@ -482,8 +482,8 @@
       "title_en": "The Wolf Among Us Remastered",
       "cat": "remaster",
       "plats": [
-        "sw",
         "pc",
+        "sw",
         "ps"
       ],
       "tags": [
