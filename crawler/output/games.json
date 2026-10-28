@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:59:09.815616",
+  "generated_at": "2026-10-28T18:11:06.445072",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -35,8 +35,8 @@
       "title_en": "Phantom Blade Zero",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -60,8 +60,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Fighting",
@@ -85,8 +85,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -127,40 +127,13 @@
       "rating": null
     },
     {
-      "id": 67195,
-      "title": "女巫学院",
-      "title_en": "Witchbrook",
-      "cat": "new",
-      "plats": [
-        "pc",
-        "sw",
-        "sw2"
-      ],
-      "tags": [
-        "Role-playing (RPG)",
-        "Simulator"
-      ],
-      "retro": false,
-      "date": "2026-12-31T00:00:00",
-      "desc": "体验魔法校园生活的乐趣与挑战，结识同学、学习法术。",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocce4.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com/app/1846700",
-        "sw": "https://www.nintendo.com",
-        "sw2": "https://www.nintendo.com"
-      },
-      "popularity": 71,
-      "hypes": 71,
-      "rating": null
-    },
-    {
       "id": 348199,
       "title": "巫女：双心",
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -184,8 +157,8 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
-        "pc",
         "ps",
+        "pc",
         "sw2"
       ],
       "tags": [
@@ -231,8 +204,8 @@
       "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Fighting",
@@ -256,8 +229,8 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
-        "pc",
         "ps",
+        "pc",
         "sw2"
       ],
       "tags": [
@@ -305,8 +278,8 @@
       "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -330,8 +303,8 @@
       "title_en": "Infinitesimals",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -355,10 +328,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "pc",
         "ps",
-        "sw",
-        "sw2"
+        "pc",
+        "sw2",
+        "sw"
       ],
       "tags": [
         "Puzzle",
@@ -384,8 +357,8 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
-        "pc",
         "ps",
+        "pc",
         "sw2"
       ],
       "tags": [
@@ -433,8 +406,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -458,8 +431,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -482,8 +455,8 @@
       "title_en": "The Wolf Among Us Remastered",
       "cat": "remaster",
       "plats": [
-        "pc",
         "ps",
+        "pc",
         "sw"
       ],
       "tags": [
@@ -502,6 +475,31 @@
       "popularity": 30,
       "hypes": 30,
       "rating": 81.0
+    },
+    {
+      "id": 339619,
+      "title": "Ikuma: The Frozen Compass",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc"
+      ],
+      "tags": [
+        "Adventure",
+        "Indie"
+      ],
+      "retro": false,
+      "date": "2026-12-31T00:00:00",
+      "desc": "Embark on a haunting journey into the cold in this narrative adventure - either alone or w",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9nlg.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com/app/1728620",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 29,
+      "hypes": 29,
+      "rating": null
     }
   ]
 }
