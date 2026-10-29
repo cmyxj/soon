@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:10:56.778669",
+  "generated_at": "2026-10-29T12:17:45.234481",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -35,8 +35,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -60,8 +60,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -107,8 +107,8 @@
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -132,9 +132,9 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
+        "pc",
         "sw2",
-        "ps",
-        "pc"
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -179,8 +179,8 @@
       "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -204,9 +204,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
+        "pc",
         "sw2",
-        "ps",
-        "pc"
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -253,8 +253,8 @@
       "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -278,8 +278,8 @@
       "title_en": "Infinitesimals",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -303,10 +303,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "sw2",
-        "ps",
         "pc",
-        "sw"
+        "sw",
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Puzzle",
@@ -332,9 +332,9 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
+        "pc",
         "sw2",
-        "ps",
-        "pc"
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -381,8 +381,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -406,8 +406,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -430,8 +430,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure",
@@ -478,10 +478,10 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "sw2",
-        "ps",
         "pc",
-        "sw"
+        "sw",
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Adventure",
