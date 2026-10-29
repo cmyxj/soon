@@ -1,25 +1,15 @@
 {
-  "generated_at": "2026-10-29T07:09:02.910208",
+  "generated_at": "2026-10-29T18:58:16.267222",
   "free": [
     {
-      "title": "Sker Ritual",
+      "title": "《Sorry We’re Closed》",
       "platform": "epic",
       "st": "avail",
-      "start": "2026-10-22T15:00:00",
-      "end": "2026-10-29T15:00:00",
-      "url": "https://store.epicgames.com/zh-CN/p/8dbc8d70481d4c0b8412d3aec76a35a1",
+      "start": "2026-10-19T15:00:00",
+      "end": "2026-11-02T16:00:00",
+      "url": "https://store.epicgames.com/zh-CN/p/f2dae10b3c45425ba1e91b4604262283",
       "note": "Epic 每周免费",
-      "cover": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-4dco7.jpg"
-    },
-    {
-      "title": "Home - A Unique Horror Adventure",
-      "platform": "epic",
-      "st": "avail",
-      "start": "2026-10-22T15:00:00",
-      "end": "2026-10-29T15:00:00",
-      "url": "https://store.epicgames.com/zh-CN/p/ff70f2b02fd842f8961f7729af25cda9",
-      "note": "Epic 每周免费",
-      "cover": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-14ws1.png"
+      "cover": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-16sj7.png"
     }
   ]
 }
