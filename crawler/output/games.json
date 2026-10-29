@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:17:45.234481",
+  "generated_at": "2026-10-29T18:17:15.493634",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -149,28 +149,8 @@
         "ps": "https://store.playstation.com/en-us/concept/10017364/",
         "sw2": "https://www.nintendo.com/us/store/products/rayman-legends-retold-switch-2/"
       },
-      "popularity": 59,
-      "hypes": 59,
-      "rating": null
-    },
-    {
-      "id": 338104,
-      "title": "黄昏血族",
-      "title_en": "The Duskbloods",
-      "cat": "new",
-      "plats": [
-        "sw2"
-      ],
-      "tags": [],
-      "retro": false,
-      "date": "2026-12-31T00:00:00",
-      "desc": "在线多人PvPvE游戏，玩家在残酷的世界中争夺霸权。",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocqn8.jpg",
-      "store": {
-        "sw2": "https://www.nintendo.com/us/store/products/the-duskbloods-switch-2/"
-      },
-      "popularity": 59,
-      "hypes": 59,
+      "popularity": 60,
+      "hypes": 60,
       "rating": null
     },
     {
@@ -499,6 +479,29 @@
       },
       "popularity": 26,
       "hypes": 26,
+      "rating": null
+    },
+    {
+      "id": 370095,
+      "title": "Petit Planet",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "retro": false,
+      "date": "2026-12-31T00:00:00",
+      "desc": "Petit Planet is HoYoverse's brand-new cosmic life sim that's free-to-play and cross-platfo",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coak1r.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com"
+      },
+      "popularity": 24,
+      "hypes": 24,
       "rating": null
     }
   ]
