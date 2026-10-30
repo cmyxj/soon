@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:17:15.493634",
+  "generated_at": "2026-10-30T05:10:28.964607",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -25,8 +25,8 @@
       "store": {
         "ps": "https://store.playstation.com/en-us/concept/10000730"
       },
-      "popularity": 1122,
-      "hypes": 1122,
+      "popularity": 1123,
+      "hypes": 1123,
       "rating": null
     },
     {
@@ -35,8 +35,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Fighting",
@@ -60,8 +60,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -75,8 +75,8 @@
         "pc": "https://store.steampowered.com/app/4814120",
         "ps": "https://store.playstation.com/en-us/concept/10009022"
       },
-      "popularity": 96,
-      "hypes": 96,
+      "popularity": 97,
+      "hypes": 97,
       "rating": null
     },
     {
@@ -102,13 +102,64 @@
       "rating": null
     },
     {
+      "id": 67195,
+      "title": "女巫学院",
+      "title_en": "Witchbrook",
+      "cat": "new",
+      "plats": [
+        "sw",
+        "ps",
+        "sw2",
+        "pc"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "retro": false,
+      "date": "2027-01-28T00:00:00",
+      "desc": "体验魔法校园生活的乐趣与挑战，结识同学、学习法术。",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocce4.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com/app/1846700",
+        "ps": "https://store.playstation.com/en-us/concept/10016633",
+        "sw": "https://www.nintendo.com",
+        "sw2": "https://www.nintendo.com"
+      },
+      "popularity": 74,
+      "hypes": 74,
+      "rating": null
+    },
+    {
+      "id": 404058,
+      "title": "Until Dawn 2",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "ps"
+      ],
+      "tags": [
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2027-01-28T00:00:00",
+      "desc": "Ready to die for likes? Join a team of ambitious ghost hunters as they chase their next vi",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocvjf.jpg",
+      "store": {
+        "ps": "https://store.playstation.com/en-us/concept/10004067"
+      },
+      "popularity": 65,
+      "hypes": 65,
+      "rating": null
+    },
+    {
       "id": 348199,
       "title": "巫女：双心",
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -132,9 +183,9 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
-        "pc",
+        "ps",
         "sw2",
-        "ps"
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -159,8 +210,8 @@
       "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Fighting",
@@ -184,9 +235,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
-        "pc",
+        "ps",
         "sw2",
-        "ps"
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -233,8 +284,8 @@
       "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -258,8 +309,8 @@
       "title_en": "Infinitesimals",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -283,10 +334,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "pc",
         "sw",
+        "ps",
         "sw2",
-        "ps"
+        "pc"
       ],
       "tags": [
         "Puzzle",
@@ -312,9 +363,9 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
-        "pc",
+        "ps",
         "sw2",
-        "ps"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -361,8 +412,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -386,8 +437,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -405,13 +456,36 @@
       "rating": null
     },
     {
+      "id": 408719,
+      "title": "Metroid Ravenous",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "sw2"
+      ],
+      "tags": [
+        "Shooter",
+        "Platform"
+      ],
+      "retro": false,
+      "date": "2027-01-28T00:00:00",
+      "desc": "It’s eat or be eaten! Take control of Samus Aran, a renowned bounty hunter ambushed by unk",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocvge.jpg",
+      "store": {
+        "sw2": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/?slug=metroid-ravenous-switch-2"
+      },
+      "popularity": 30,
+      "hypes": 30,
+      "rating": null
+    },
+    {
       "id": 339619,
       "title": "Ikuma: The Frozen Compass",
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure",
@@ -427,81 +501,6 @@
       },
       "popularity": 29,
       "hypes": 29,
-      "rating": null
-    },
-    {
-      "id": 322835,
-      "title": "Haunted by Femboy",
-      "title_en": null,
-      "cat": "new",
-      "plats": [
-        "pc"
-      ],
-      "tags": [
-        "Simulator",
-        "Visual Novel"
-      ],
-      "retro": false,
-      "date": "2026-12-31T00:00:00",
-      "desc": "In this choice-based NSFW visual novel after inheriting a strange house from your parents,",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa6o1.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com/app/3257270/Haunted_by_Femboy/"
-      },
-      "popularity": 29,
-      "hypes": 29,
-      "rating": null
-    },
-    {
-      "id": 366895,
-      "title": "Danganronpa 2x2",
-      "title_en": null,
-      "cat": "new",
-      "plats": [
-        "pc",
-        "sw",
-        "sw2",
-        "ps"
-      ],
-      "tags": [
-        "Adventure",
-        "Visual Novel"
-      ],
-      "retro": false,
-      "date": "2027-01-14T00:00:00",
-      "desc": "A new killing game begins in the same setting and with the same characters as Danganronpa ",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocv93.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com/app/3751230/",
-        "ps": "https://store.playstation.com/en-us/concept/10016381",
-        "sw": "https://www.nintendo.com",
-        "sw2": "https://www.nintendo.com"
-      },
-      "popularity": 26,
-      "hypes": 26,
-      "rating": null
-    },
-    {
-      "id": 370095,
-      "title": "Petit Planet",
-      "title_en": null,
-      "cat": "new",
-      "plats": [
-        "pc"
-      ],
-      "tags": [
-        "Role-playing (RPG)",
-        "Simulator"
-      ],
-      "retro": false,
-      "date": "2026-12-31T00:00:00",
-      "desc": "Petit Planet is HoYoverse's brand-new cosmic life sim that's free-to-play and cross-platfo",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coak1r.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com"
-      },
-      "popularity": 24,
-      "hypes": 24,
       "rating": null
     }
   ]
