@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T17:04:53.240151",
+  "generated_at": "2026-11-01T05:23:59.636065",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -25,8 +25,8 @@
       "store": {
         "ps": "https://store.playstation.com/en-us/concept/10000730"
       },
-      "popularity": 1124,
-      "hypes": 1124,
+      "popularity": 1126,
+      "hypes": 1126,
       "rating": null
     },
     {
@@ -97,8 +97,8 @@
       "store": {
         "sw2": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/"
       },
-      "popularity": 79,
-      "hypes": 79,
+      "popularity": 80,
+      "hypes": 80,
       "rating": null
     },
     {
@@ -108,8 +108,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw",
         "sw2",
+        "sw",
         "ps"
       ],
       "tags": [
@@ -335,8 +335,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw",
         "sw2",
+        "sw",
         "ps"
       ],
       "tags": [
