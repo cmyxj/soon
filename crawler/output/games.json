@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:49:00.399137",
+  "generated_at": "2026-11-02T05:22:54.143179",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -35,8 +35,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Fighting",
@@ -50,8 +50,8 @@
         "pc": "https://store.steampowered.com/app/4260840",
         "ps": "https://store.playstation.com/en-us/concept/10017939"
       },
-      "popularity": 119,
-      "hypes": 119,
+      "popularity": 118,
+      "hypes": 118,
       "rating": null
     },
     {
@@ -60,8 +60,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -107,10 +107,10 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "pc",
-        "sw2",
+        "ps",
         "sw",
-        "ps"
+        "pc",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -158,8 +158,8 @@
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -183,9 +183,9 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
+        "ps",
         "pc",
-        "sw2",
-        "ps"
+        "sw2"
       ],
       "tags": [
         "Platform",
@@ -210,8 +210,8 @@
       "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Fighting",
@@ -235,9 +235,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
+        "ps",
         "pc",
-        "sw2",
-        "ps"
+        "sw2"
       ],
       "tags": [
         "Adventure"
@@ -284,8 +284,8 @@
       "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -299,8 +299,8 @@
         "pc": "https://store.steampowered.com/app/1687540/Showa_American_Story",
         "ps": "https://store.playstation.com"
       },
-      "popularity": 42,
-      "hypes": 42,
+      "popularity": 41,
+      "hypes": 41,
       "rating": null
     },
     {
@@ -309,8 +309,8 @@
       "title_en": "Infinitesimals",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -334,10 +334,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "pc",
-        "sw2",
+        "ps",
         "sw",
-        "ps"
+        "pc",
+        "sw2"
       ],
       "tags": [
         "Puzzle",
@@ -363,9 +363,9 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
+        "ps",
         "pc",
-        "sw2",
-        "ps"
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -380,8 +380,8 @@
         "ps": "https://store.playstation.com/en-us/concept/10017555",
         "sw2": "https://www.nintendo.com"
       },
-      "popularity": 35,
-      "hypes": 35,
+      "popularity": 34,
+      "hypes": 34,
       "rating": null
     },
     {
@@ -412,8 +412,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -437,8 +437,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -484,8 +484,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure",
