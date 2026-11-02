@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T05:22:54.143179",
+  "generated_at": "2026-11-02T21:35:52.399747",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -25,8 +25,8 @@
       "store": {
         "ps": "https://store.playstation.com/en-us/concept/10000730"
       },
-      "popularity": 1126,
-      "hypes": 1126,
+      "popularity": 1128,
+      "hypes": 1128,
       "rating": null
     },
     {
@@ -97,8 +97,8 @@
       "store": {
         "sw2": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/"
       },
-      "popularity": 80,
-      "hypes": 80,
+      "popularity": 81,
+      "hypes": 81,
       "rating": null
     },
     {
@@ -107,10 +107,10 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "ps",
+        "sw2",
         "sw",
-        "pc",
-        "sw2"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -183,9 +183,9 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw2"
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -235,9 +235,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw2"
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -334,10 +334,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "ps",
+        "sw2",
         "sw",
-        "pc",
-        "sw2"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Puzzle",
@@ -363,9 +363,9 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw2"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -404,31 +404,6 @@
       },
       "popularity": 34,
       "hypes": 34,
-      "rating": null
-    },
-    {
-      "id": 317622,
-      "title": "ArcheAge Chronicles",
-      "title_en": null,
-      "cat": "new",
-      "plats": [
-        "ps",
-        "pc"
-      ],
-      "tags": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "retro": false,
-      "date": "2026-12-31T00:00:00",
-      "desc": "探索Auroria广阔世界，丰富的冒险与任务等待你。",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8xgc.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com/app/3218230",
-        "ps": "https://store.playstation.com/en-us/concept/10011705"
-      },
-      "popularity": 33,
-      "hypes": 33,
       "rating": null
     },
     {
@@ -498,6 +473,29 @@
       "store": {
         "pc": "https://store.steampowered.com/app/1728620",
         "ps": "https://store.playstation.com"
+      },
+      "popularity": 29,
+      "hypes": 29,
+      "rating": null
+    },
+    {
+      "id": 322835,
+      "title": "Haunted by Femboy",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "pc"
+      ],
+      "tags": [
+        "Simulator",
+        "Visual Novel"
+      ],
+      "retro": false,
+      "date": "2026-12-31T00:00:00",
+      "desc": "In this choice-based NSFW visual novel after inheriting a strange house from your parents,",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa6o1.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com/app/3257270/Haunted_by_Femboy/"
       },
       "popularity": 29,
       "hypes": 29,
