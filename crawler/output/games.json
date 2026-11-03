@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:35:52.399747",
+  "generated_at": "2026-11-03T06:02:02.213559",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -108,9 +108,9 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -153,31 +153,6 @@
       "rating": null
     },
     {
-      "id": 348199,
-      "title": "巫女：双心",
-      "title_en": "Mudang: Two Hearts",
-      "cat": "new",
-      "plats": [
-        "ps",
-        "pc"
-      ],
-      "tags": [
-        "Shooter",
-        "Adventure"
-      ],
-      "retro": false,
-      "date": "2026-12-31T00:00:00",
-      "desc": "叙事驱动的第三人称动作游戏，讲述巫女与双心的故事。",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9xzl.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com/app/2889030/MUDANG_Two_Hearts/",
-        "ps": "https://store.playstation.com"
-      },
-      "popularity": 61,
-      "hypes": 61,
-      "rating": null
-    },
-    {
       "id": 404044,
       "title": "雷曼：传奇 重制版",
       "title_en": "Rayman Legends Retold",
@@ -200,8 +175,33 @@
         "ps": "https://store.playstation.com/en-us/concept/10017364/",
         "sw2": "https://www.nintendo.com/us/store/products/rayman-legends-retold-switch-2/"
       },
-      "popularity": 60,
-      "hypes": 60,
+      "popularity": 61,
+      "hypes": 61,
+      "rating": null
+    },
+    {
+      "id": 348199,
+      "title": "巫女：双心",
+      "title_en": "Mudang: Two Hearts",
+      "cat": "new",
+      "plats": [
+        "ps",
+        "pc"
+      ],
+      "tags": [
+        "Shooter",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-12-31T00:00:00",
+      "desc": "叙事驱动的第三人称动作游戏，讲述巫女与双心的故事。",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9xzl.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com/app/2889030/MUDANG_Two_Hearts/",
+        "ps": "https://store.playstation.com"
+      },
+      "popularity": 61,
+      "hypes": 61,
       "rating": null
     },
     {
@@ -335,9 +335,9 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "sw",
         "ps",
-        "pc"
+        "pc",
+        "sw"
       ],
       "tags": [
         "Puzzle",
@@ -407,6 +407,29 @@
       "rating": null
     },
     {
+      "id": 408719,
+      "title": "Metroid Ravenous",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "sw2"
+      ],
+      "tags": [
+        "Shooter",
+        "Platform"
+      ],
+      "retro": false,
+      "date": "2027-01-28T00:00:00",
+      "desc": "It’s eat or be eaten! Take control of Samus Aran, a renowned bounty hunter ambushed by unk",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocvge.jpg",
+      "store": {
+        "sw2": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/?slug=metroid-ravenous-switch-2"
+      },
+      "popularity": 31,
+      "hypes": 31,
+      "rating": null
+    },
+    {
       "id": 381208,
       "title": "坦克鼠",
       "title_en": "TankRat",
@@ -425,29 +448,6 @@
       "store": {
         "pc": "https://store.steampowered.com/app/1637460",
         "ps": "https://store.playstation.com/en-gb/concept/10005291"
-      },
-      "popularity": 32,
-      "hypes": 32,
-      "rating": null
-    },
-    {
-      "id": 408719,
-      "title": "Metroid Ravenous",
-      "title_en": null,
-      "cat": "new",
-      "plats": [
-        "sw2"
-      ],
-      "tags": [
-        "Shooter",
-        "Platform"
-      ],
-      "retro": false,
-      "date": "2027-01-28T00:00:00",
-      "desc": "It’s eat or be eaten! Take control of Samus Aran, a renowned bounty hunter ambushed by unk",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocvge.jpg",
-      "store": {
-        "sw2": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/?slug=metroid-ravenous-switch-2"
       },
       "popularity": 31,
       "hypes": 31,
