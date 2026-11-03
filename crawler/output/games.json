@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-03T06:02:02.213559",
+  "generated_at": "2026-11-03T19:18:25.404438",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
-  "big_count": 1,
-  "normal_count": 19,
+  "big_count": 2,
+  "normal_count": 18,
   "games": [
     {
       "id": 52189,
@@ -30,13 +30,38 @@
       "rating": null
     },
     {
+      "id": 343335,
+      "title": "Silver Palace",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "pc",
+        "ps"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2026-12-14T00:00:00",
+      "desc": "Silver Palace is an upcoming open‑world detective action‑adventure RPG developed by Silver",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocikv.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com",
+        "ps": "https://store.playstation.com/en-us/concept/10015692"
+      },
+      "popularity": 132,
+      "hypes": 132,
+      "rating": null
+    },
+    {
       "id": 325599,
       "title": "天堂异客",
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -60,8 +85,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -107,10 +132,10 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
+        "sw",
         "sw2",
-        "ps",
         "pc",
-        "sw"
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -159,8 +184,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -185,8 +210,8 @@
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -210,8 +235,8 @@
       "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -236,8 +261,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -284,8 +309,8 @@
       "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -309,8 +334,8 @@
       "title_en": "Infinitesimals",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -334,10 +359,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
+        "sw",
         "sw2",
-        "ps",
         "pc",
-        "sw"
+        "ps"
       ],
       "tags": [
         "Puzzle",
@@ -364,8 +389,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -435,8 +460,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -459,8 +484,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure",
@@ -473,29 +498,6 @@
       "store": {
         "pc": "https://store.steampowered.com/app/1728620",
         "ps": "https://store.playstation.com"
-      },
-      "popularity": 29,
-      "hypes": 29,
-      "rating": null
-    },
-    {
-      "id": 322835,
-      "title": "Haunted by Femboy",
-      "title_en": null,
-      "cat": "new",
-      "plats": [
-        "pc"
-      ],
-      "tags": [
-        "Simulator",
-        "Visual Novel"
-      ],
-      "retro": false,
-      "date": "2026-12-31T00:00:00",
-      "desc": "In this choice-based NSFW visual novel after inheriting a strange house from your parents,",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa6o1.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com/app/3257270/Haunted_by_Femboy/"
       },
       "popularity": 29,
       "hypes": 29,
