@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:58:38.657727",
+  "generated_at": "2026-11-05T19:44:51.252703",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -50,8 +50,8 @@
         "pc": "https://store.steampowered.com",
         "ps": "https://store.playstation.com/en-us/concept/10015692"
       },
-      "popularity": 132,
-      "hypes": 132,
+      "popularity": 133,
+      "hypes": 133,
       "rating": null
     },
     {
@@ -110,10 +110,10 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "pc",
+        "sw",
         "ps",
-        "sw2",
-        "sw"
+        "pc",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -161,8 +161,8 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
-        "pc",
         "ps",
+        "pc",
         "sw2"
       ],
       "tags": [
@@ -238,8 +238,8 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
-        "pc",
         "ps",
+        "pc",
         "sw2"
       ],
       "tags": [
@@ -337,10 +337,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "pc",
+        "sw",
         "ps",
-        "sw2",
-        "sw"
+        "pc",
+        "sw2"
       ],
       "tags": [
         "Puzzle",
@@ -366,8 +366,8 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
-        "pc",
         "ps",
+        "pc",
         "sw2"
       ],
       "tags": [
