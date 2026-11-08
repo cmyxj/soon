@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:38:40.997073",
+  "generated_at": "2026-11-08T05:27:03.602683",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -135,9 +135,9 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "sw2",
-        "pc",
         "sw",
+        "pc",
+        "sw2",
         "ps"
       ],
       "tags": [
@@ -186,8 +186,8 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
-        "sw2",
         "pc",
+        "sw2",
         "ps"
       ],
       "tags": [
@@ -263,8 +263,8 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
-        "sw2",
         "pc",
+        "sw2",
         "ps"
       ],
       "tags": [
@@ -337,9 +337,9 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "sw2",
-        "pc",
         "sw",
+        "pc",
+        "sw2",
         "ps"
       ],
       "tags": [
@@ -366,8 +366,8 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
-        "sw2",
         "pc",
+        "sw2",
         "ps"
       ],
       "tags": [
