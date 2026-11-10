@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:08:42.991403",
+  "generated_at": "2026-11-10T06:47:02.904744",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -25,8 +25,8 @@
       "store": {
         "ps": "https://store.playstation.com/en-us/concept/10000730"
       },
-      "popularity": 1129,
-      "hypes": 1129,
+      "popularity": 1142,
+      "hypes": 1142,
       "rating": null
     },
     {
@@ -35,8 +35,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -60,8 +60,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -85,8 +85,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -110,8 +110,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -136,9 +136,9 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
         "sw2",
-        "sw"
+        "sw",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -187,8 +187,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -213,8 +213,8 @@
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -238,8 +238,8 @@
       "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -264,8 +264,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -312,8 +312,8 @@
       "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -338,9 +338,9 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
         "sw2",
-        "sw"
+        "sw",
+        "ps"
       ],
       "tags": [
         "Puzzle",
@@ -367,8 +367,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -415,8 +415,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -462,8 +462,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure",
