@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T06:47:02.904744",
+  "generated_at": "2026-11-10T19:30:22.374354",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -25,8 +25,8 @@
       "store": {
         "ps": "https://store.playstation.com/en-us/concept/10000730"
       },
-      "popularity": 1142,
-      "hypes": 1142,
+      "popularity": 1144,
+      "hypes": 1144,
       "rating": null
     },
     {
@@ -35,8 +35,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -60,8 +60,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Fighting",
@@ -85,8 +85,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -100,8 +100,8 @@
         "pc": "https://store.steampowered.com/app/2590240/",
         "ps": "https://store.playstation.com/en-us/concept/10009337"
       },
-      "popularity": 117,
-      "hypes": 117,
+      "popularity": 118,
+      "hypes": 118,
       "rating": null
     },
     {
@@ -110,8 +110,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -135,10 +135,10 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "pc",
-        "sw2",
         "sw",
-        "ps"
+        "sw2",
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -186,9 +186,9 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
-        "pc",
         "sw2",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -213,8 +213,8 @@
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -238,8 +238,8 @@
       "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Fighting",
@@ -263,9 +263,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
-        "pc",
         "sw2",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -279,8 +279,8 @@
         "ps": "https://store.playstation.com/en-us/concept/10012485/",
         "sw2": "https://www.nintendo.com/us/store/products/hela-of-mice-and-magic-switch-2/"
       },
-      "popularity": 49,
-      "hypes": 49,
+      "popularity": 50,
+      "hypes": 50,
       "rating": null
     },
     {
@@ -312,8 +312,8 @@
       "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -337,10 +337,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "pc",
-        "sw2",
         "sw",
-        "ps"
+        "sw2",
+        "ps",
+        "pc"
       ],
       "tags": [
         "Puzzle",
@@ -366,9 +366,9 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
-        "pc",
         "sw2",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -415,8 +415,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -462,8 +462,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure",
