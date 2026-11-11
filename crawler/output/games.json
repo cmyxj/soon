@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:30:22.374354",
+  "generated_at": "2026-11-11T05:34:48.256541",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -25,8 +25,8 @@
       "store": {
         "ps": "https://store.playstation.com/en-us/concept/10000730"
       },
-      "popularity": 1144,
-      "hypes": 1144,
+      "popularity": 1146,
+      "hypes": 1146,
       "rating": null
     },
     {
@@ -35,8 +35,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -60,8 +60,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -75,8 +75,8 @@
         "pc": "https://store.steampowered.com/app/4260840",
         "ps": "https://store.playstation.com/en-us/concept/10017939"
       },
-      "popularity": 122,
-      "hypes": 122,
+      "popularity": 123,
+      "hypes": 123,
       "rating": null
     },
     {
@@ -85,8 +85,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -110,8 +110,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -125,8 +125,8 @@
         "pc": "https://store.steampowered.com/app/4814120",
         "ps": "https://store.playstation.com/en-us/concept/10009022"
       },
-      "popularity": 99,
-      "hypes": 99,
+      "popularity": 100,
+      "hypes": 100,
       "rating": null
     },
     {
@@ -135,10 +135,10 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "sw",
         "sw2",
-        "ps",
-        "pc"
+        "sw",
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -187,8 +187,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -213,8 +213,8 @@
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -238,8 +238,8 @@
       "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -264,8 +264,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -312,8 +312,8 @@
       "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -337,10 +337,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "sw",
         "sw2",
-        "ps",
-        "pc"
+        "sw",
+        "pc",
+        "ps"
       ],
       "tags": [
         "Puzzle",
@@ -367,8 +367,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -415,8 +415,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -462,8 +462,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure",
