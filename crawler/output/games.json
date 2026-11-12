@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:25:48.708533",
+  "generated_at": "2026-11-12T06:40:17.004447",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -136,8 +136,8 @@
       "cat": "new",
       "plats": [
         "ps",
-        "sw",
         "pc",
+        "sw",
         "sw2"
       ],
       "tags": [
@@ -338,8 +338,8 @@
       "cat": "new",
       "plats": [
         "ps",
-        "sw",
         "pc",
+        "sw",
         "sw2"
       ],
       "tags": [
