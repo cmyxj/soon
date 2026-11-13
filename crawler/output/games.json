@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:43:31.475525",
+  "generated_at": "2026-11-13T05:56:56.643687",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -35,8 +35,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -60,8 +60,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -85,8 +85,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -100,8 +100,8 @@
         "pc": "https://store.steampowered.com/app/2590240/",
         "ps": "https://store.playstation.com/en-us/concept/10009337"
       },
-      "popularity": 118,
-      "hypes": 118,
+      "popularity": 119,
+      "hypes": 119,
       "rating": null
     },
     {
@@ -110,8 +110,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -213,8 +213,8 @@
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -238,8 +238,8 @@
       "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -312,8 +312,8 @@
       "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -415,8 +415,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -462,8 +462,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure",
