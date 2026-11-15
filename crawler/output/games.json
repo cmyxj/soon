@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T05:46:39.615569",
+  "generated_at": "2026-11-15T18:40:42.269709",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -25,8 +25,8 @@
       "store": {
         "ps": "https://store.playstation.com/en-us/concept/10000730"
       },
-      "popularity": 1155,
-      "hypes": 1155,
+      "popularity": 1159,
+      "hypes": 1159,
       "rating": null
     },
     {
@@ -36,8 +36,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -102,8 +102,8 @@
         "pc": "https://store.steampowered.com/app/4260840",
         "ps": "https://store.playstation.com/en-us/concept/10017939"
       },
-      "popularity": 123,
-      "hypes": 123,
+      "popularity": 124,
+      "hypes": 124,
       "rating": null
     },
     {
@@ -163,9 +163,9 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
         "sw",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -214,8 +214,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -291,8 +291,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -365,9 +365,9 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
         "sw",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Puzzle",
@@ -394,8 +394,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
