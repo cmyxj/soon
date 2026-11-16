@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:40:42.269709",
+  "generated_at": "2026-11-16T05:45:33.284576",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -162,8 +162,8 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "pc",
         "sw",
+        "pc",
         "sw2",
         "ps"
       ],
@@ -364,8 +364,8 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "pc",
         "sw",
+        "pc",
         "sw2",
         "ps"
       ],
