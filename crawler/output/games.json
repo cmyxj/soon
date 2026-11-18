@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:48:33.782366",
+  "generated_at": "2026-11-18T20:14:34.934114",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -25,9 +25,9 @@
       "store": {
         "ps": "https://store.playstation.com/en-us/concept/10000730"
       },
-      "popularity": 1167,
-      "hypes": 1167,
-      "rating": null
+      "popularity": 1424,
+      "hypes": 1424,
+      "rating": 97.5
     },
     {
       "id": 381235,
@@ -36,8 +36,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw2",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Platform",
@@ -52,8 +52,8 @@
         "ps": "https://store.playstation.com/en-us/concept/10014491/",
         "sw2": "https://www.nintendo.com/us/store/products/tomb-raider-legacy-of-atlantis-switch-2/"
       },
-      "popularity": 155,
-      "hypes": 155,
+      "popularity": 156,
+      "hypes": 156,
       "rating": null
     },
     {
@@ -162,10 +162,10 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "sw",
         "pc",
-        "sw2",
-        "ps"
+        "ps",
+        "sw",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -214,8 +214,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw2",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Platform",
@@ -291,8 +291,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw2",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Adventure"
@@ -364,10 +364,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "sw",
         "pc",
-        "sw2",
-        "ps"
+        "ps",
+        "sw",
+        "sw2"
       ],
       "tags": [
         "Puzzle",
@@ -394,8 +394,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw2",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
