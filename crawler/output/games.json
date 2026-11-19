@@ -1,34 +1,11 @@
 {
-  "generated_at": "2026-11-18T20:14:34.934114",
+  "generated_at": "2026-11-19T06:49:35.058761",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
-  "big_count": 4,
-  "normal_count": 16,
+  "big_count": 3,
+  "normal_count": 17,
   "games": [
-    {
-      "id": 52189,
-      "title": "侠盗猎车手 VI",
-      "title_en": "Grand Theft Auto VI",
-      "cat": "new",
-      "plats": [
-        "ps"
-      ],
-      "tags": [
-        "Shooter",
-        "Racing"
-      ],
-      "retro": false,
-      "date": "2026-11-19T00:00:00",
-      "desc": "来到雷奥尼达州——霓虹闪烁的罪恶都市，享受GTA系列前所未有的自由与疯狂。",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocv1v.jpg",
-      "store": {
-        "ps": "https://store.playstation.com/en-us/concept/10000730"
-      },
-      "popularity": 1424,
-      "hypes": 1424,
-      "rating": 97.5
-    },
     {
       "id": 381235,
       "title": "Tomb Raider: Legacy of Atlantis",
@@ -36,8 +13,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -162,10 +139,10 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps",
         "sw",
-        "sw2"
+        "pc",
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -214,8 +191,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -291,8 +268,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -364,10 +341,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps",
         "sw",
-        "sw2"
+        "pc",
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Puzzle",
@@ -394,8 +371,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "ps",
-        "sw2"
+        "sw2",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -506,6 +483,31 @@
       },
       "popularity": 30,
       "hypes": 30,
+      "rating": null
+    },
+    {
+      "id": 344655,
+      "title": "Warhammer 40,000: Dark Heresy",
+      "title_en": null,
+      "cat": "new",
+      "plats": [
+        "pc",
+        "ps"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Strategy"
+      ],
+      "retro": false,
+      "date": "2027-01-28T00:00:00",
+      "desc": "Become an acolyte of the Inquisition in this grim dark, party-based, story-driven cRPG. Le",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa03o.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com/app/3710600",
+        "ps": "https://store.playstation.com/en-us/concept/10014065"
+      },
+      "popularity": 29,
+      "hypes": 29,
       "rating": null
     }
   ]
