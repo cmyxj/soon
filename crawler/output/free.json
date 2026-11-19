@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-19T08:50:02.651165",
+  "generated_at": "2026-11-19T21:37:25.230519",
   "free": [
     {
-      "title": "斗阵骑士 Knightica",
+      "title": "Mark of the Deep",
       "platform": "epic",
       "st": "avail",
-      "start": "2026-11-12T16:00:00",
-      "end": "2026-11-19T16:00:00",
-      "url": "https://store.epicgames.com/zh-CN/p/72b46f5d95624fd5b7e7d81b7dcaead1",
+      "start": "2026-11-19T16:00:00",
+      "end": "2026-11-26T16:00:00",
+      "url": "https://store.epicgames.com/zh-CN/p/2fd257a6cd80405a833f9004ff07993a",
       "note": "Epic 每周免费",
-      "cover": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1xc3d.png"
+      "cover": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1lope.png"
     }
   ]
 }
