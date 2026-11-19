@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T06:49:35.058761",
+  "generated_at": "2026-11-19T20:18:24.172103",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -139,8 +139,8 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "sw",
         "pc",
+        "sw",
         "sw2",
         "ps"
       ],
@@ -158,8 +158,8 @@
         "sw": "https://www.nintendo.com",
         "sw2": "https://www.nintendo.com"
       },
-      "popularity": 74,
-      "hypes": 74,
+      "popularity": 73,
+      "hypes": 73,
       "rating": null
     },
     {
@@ -341,8 +341,8 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "sw",
         "pc",
+        "sw",
         "sw2",
         "ps"
       ],
