@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:30:25.084998",
+  "generated_at": "2026-11-21T18:55:58.744089",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -13,8 +13,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -54,8 +54,8 @@
         "pc": "https://store.steampowered.com",
         "ps": "https://store.playstation.com/en-us/concept/10015692"
       },
-      "popularity": 137,
-      "hypes": 137,
+      "popularity": 139,
+      "hypes": 139,
       "rating": null
     },
     {
@@ -140,8 +140,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -166,10 +166,10 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "sw",
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "sw",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -218,8 +218,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Platform",
@@ -295,8 +295,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -368,10 +368,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "sw",
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "sw",
+        "ps"
       ],
       "tags": [
         "Puzzle",
@@ -398,8 +398,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
