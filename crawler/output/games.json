@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:49:46.285526",
+  "generated_at": "2026-11-21T06:30:25.084998",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -12,9 +12,9 @@
       "title_en": null,
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw2"
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -39,8 +39,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -64,8 +64,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -89,8 +89,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -114,8 +114,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -139,9 +139,9 @@
       "title_en": null,
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw2"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -166,10 +166,10 @@
       "title_en": "Witchbrook",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc",
+        "sw",
         "sw2",
-        "sw"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -217,9 +217,9 @@
       "title_en": "Rayman Legends Retold",
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw2"
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -244,8 +244,8 @@
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -269,8 +269,8 @@
       "title_en": "Acts of Blood",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -294,9 +294,9 @@
       "title_en": "Hela: Of Mice & Magic",
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw2"
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -343,8 +343,8 @@
       "title_en": "Showa American Story",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -368,10 +368,10 @@
       "title_en": "Professor Layton and the New World of Steam",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc",
+        "sw",
         "sw2",
-        "sw"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Puzzle",
@@ -387,8 +387,8 @@
         "sw": "https://www.nintendo.com",
         "sw2": "https://www.nintendo.com"
       },
-      "popularity": 36,
-      "hypes": 36,
+      "popularity": 37,
+      "hypes": 37,
       "rating": null
     },
     {
@@ -397,9 +397,9 @@
       "title_en": "Armatus",
       "cat": "new",
       "plats": [
+        "sw2",
         "ps",
-        "pc",
-        "sw2"
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -446,8 +446,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -493,8 +493,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure",
