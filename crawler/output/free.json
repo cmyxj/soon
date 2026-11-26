@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-26T09:33:13.219098",
+  "generated_at": "2026-11-26T22:22:29.554658",
   "free": [
     {
-      "title": "Mark of the Deep",
+      "title": "Bread and Fred",
       "platform": "epic",
       "st": "avail",
-      "start": "2026-11-19T16:00:00",
-      "end": "2026-11-26T16:00:00",
-      "url": "https://store.epicgames.com/zh-CN/p/2fd257a6cd80405a833f9004ff07993a",
+      "start": "2026-11-26T16:00:00",
+      "end": "2026-12-03T16:00:00",
+      "url": "https://store.epicgames.com/zh-CN/p/3435439bd89847608f5299fb297d1466",
       "note": "Epic 每周免费",
-      "cover": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1lope.png"
+      "cover": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-pr4o2.jpg"
     }
   ]
 }
