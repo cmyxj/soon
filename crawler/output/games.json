@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:42:44.284459",
+  "generated_at": "2026-11-26T21:13:20.134528",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -79,8 +79,8 @@
         "pc": "https://store.steampowered.com",
         "ps": "https://store.playstation.com/en-us/concept/10015692"
       },
-      "popularity": 139,
-      "hypes": 139,
+      "popularity": 140,
+      "hypes": 140,
       "rating": null
     },
     {
@@ -154,8 +154,8 @@
         "pc": "https://store.steampowered.com/app/4814120",
         "ps": "https://store.playstation.com/en-us/concept/10009022"
       },
-      "popularity": 100,
-      "hypes": 100,
+      "popularity": 102,
+      "hypes": 102,
       "rating": null
     },
     {
