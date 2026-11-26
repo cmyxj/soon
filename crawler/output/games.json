@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:26:43.298580",
+  "generated_at": "2026-11-26T07:42:44.284459",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -12,8 +12,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -38,8 +38,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -64,8 +64,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -89,8 +89,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Fighting",
@@ -114,8 +114,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -139,8 +139,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -165,8 +165,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -193,8 +193,8 @@
       "plats": [
         "sw",
         "sw2",
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -243,8 +243,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Platform",
@@ -269,8 +269,8 @@
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Shooter",
@@ -295,8 +295,8 @@
       "cat": "new",
       "plats": [
         "sw2",
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -345,8 +345,8 @@
       "plats": [
         "sw",
         "sw2",
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Puzzle",
@@ -355,42 +355,15 @@
       "retro": false,
       "date": "2026-12-10T00:00:00",
       "desc": "雷顿教授归来，在蒸汽朋克世界中解开全新谜题。",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co66va.jpg",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/codgg1.jpg",
       "store": {
         "pc": "https://store.steampowered.com/app/3384600",
-        "ps": "https://store.playstation.com",
-        "sw": "https://www.nintendo.com",
-        "sw2": "https://www.nintendo.com"
+        "ps": "https://store.playstation.com/en-us/product/JP0720-PPSA37037_00-LAYTONGAME000000",
+        "sw": "https://www.nintendo.com/us/store/products/professor-layton-and-the-new-world-of-steam-switch/",
+        "sw2": "https://www.nintendo.com/us/store/products/professor-layton-and-the-new-world-of-steam-switch/"
       },
       "popularity": 37,
       "hypes": 37,
-      "rating": null
-    },
-    {
-      "id": 378225,
-      "title": "武装者",
-      "title_en": "Armatus",
-      "cat": "new",
-      "plats": [
-        "sw2",
-        "pc",
-        "ps"
-      ],
-      "tags": [
-        "Role-playing (RPG)",
-        "Adventure"
-      ],
-      "retro": false,
-      "date": "2027-01-07T00:00:00",
-      "desc": "第三人称Roguelite射击游戏，在恶魔世界中战斗。",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coave0.jpg",
-      "store": {
-        "pc": "https://store.steampowered.com/app/3660710",
-        "ps": "https://store.playstation.com/en-us/concept/10017555",
-        "sw2": "https://www.nintendo.com"
-      },
-      "popularity": 34,
-      "hypes": 34,
       "rating": null
     },
     {
@@ -411,6 +384,33 @@
       "store": {
         "pc": "https://store.steampowered.com/app/2272360"
       },
+      "popularity": 35,
+      "hypes": 35,
+      "rating": null
+    },
+    {
+      "id": 378225,
+      "title": "武装者",
+      "title_en": "Armatus",
+      "cat": "new",
+      "plats": [
+        "sw2",
+        "ps",
+        "pc"
+      ],
+      "tags": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "retro": false,
+      "date": "2027-01-07T00:00:00",
+      "desc": "第三人称Roguelite射击游戏，在恶魔世界中战斗。",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coave0.jpg",
+      "store": {
+        "pc": "https://store.steampowered.com/app/3660710",
+        "ps": "https://store.playstation.com/en-us/concept/10017555",
+        "sw2": "https://www.nintendo.com"
+      },
       "popularity": 34,
       "hypes": 34,
       "rating": null
@@ -421,8 +421,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure"
@@ -468,8 +468,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "pc",
-        "ps"
+        "ps",
+        "pc"
       ],
       "tags": [
         "Adventure",
