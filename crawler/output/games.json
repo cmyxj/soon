@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:41:52.316638",
+  "generated_at": "2026-11-27T20:55:59.472897",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -38,8 +38,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw2",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Platform",
@@ -165,8 +165,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw2",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -193,8 +193,8 @@
       "plats": [
         "pc",
         "sw",
-        "sw2",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -243,8 +243,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw2",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Platform",
@@ -295,8 +295,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw2",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Adventure"
@@ -345,8 +345,8 @@
       "plats": [
         "pc",
         "sw",
-        "sw2",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Puzzle",
@@ -395,8 +395,8 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw2",
-        "ps"
+        "ps",
+        "sw2"
       ],
       "tags": [
         "Role-playing (RPG)",
