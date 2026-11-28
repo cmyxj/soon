@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:55:59.472897",
+  "generated_at": "2026-11-28T07:09:57.682866",
   "min_hypes": 5,
   "top_n": 20,
   "big_hypes": 120,
@@ -12,8 +12,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -27,8 +27,8 @@
         "pc": "https://store.steampowered.com/app/2769570",
         "ps": "https://store.playstation.com/en-us/concept/10015869"
       },
-      "popularity": 443,
-      "hypes": 443,
+      "popularity": 445,
+      "hypes": 445,
       "rating": null
     },
     {
@@ -54,8 +54,8 @@
         "ps": "https://store.playstation.com/en-us/concept/10014491/",
         "sw2": "https://www.nintendo.com/us/store/products/tomb-raider-legacy-of-atlantis-switch-2/"
       },
-      "popularity": 160,
-      "hypes": 160,
+      "popularity": 161,
+      "hypes": 161,
       "rating": null
     },
     {
@@ -64,8 +64,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -89,8 +89,8 @@
       "title_en": "Stranger Than Heaven",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Fighting",
@@ -114,8 +114,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -139,8 +139,8 @@
       "title_en": "Ananta",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -192,9 +192,9 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw",
         "ps",
-        "sw2"
+        "sw2",
+        "sw"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -259,8 +259,8 @@
         "ps": "https://store.playstation.com/en-us/concept/10017364/",
         "sw2": "https://www.nintendo.com/us/store/products/rayman-legends-retold-switch-2/"
       },
-      "popularity": 62,
-      "hypes": 62,
+      "popularity": 63,
+      "hypes": 63,
       "rating": null
     },
     {
@@ -269,8 +269,8 @@
       "title_en": "Mudang: Two Hearts",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Shooter",
@@ -344,9 +344,9 @@
       "cat": "new",
       "plats": [
         "pc",
-        "sw",
         "ps",
-        "sw2"
+        "sw2",
+        "sw"
       ],
       "tags": [
         "Puzzle",
@@ -384,8 +384,8 @@
       "store": {
         "pc": "https://store.steampowered.com/app/2272360"
       },
-      "popularity": 35,
-      "hypes": 35,
+      "popularity": 36,
+      "hypes": 36,
       "rating": null
     },
     {
@@ -421,8 +421,8 @@
       "title_en": "TankRat",
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure"
@@ -468,8 +468,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Role-playing (RPG)",
@@ -493,8 +493,8 @@
       "title_en": null,
       "cat": "new",
       "plats": [
-        "ps",
-        "pc"
+        "pc",
+        "ps"
       ],
       "tags": [
         "Adventure",
